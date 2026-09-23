@@ -1,0 +1,501 @@
+Employee_ID,Company,Department,Job_Level,Job_Role,Location,Gender,Age,Education,Employment_Type,Work_Mode,Years_at_Company,Years_in_Current_Role,Total_Work_Experience,Monthly_Salary_INR,Annual_Salary_INR,Annual_Bonus_INR,Job_Satisfaction,Work_Life_Balance,Performance_Rating,Overtime_Hours_Month,Training_Hours_Year,Projects_Count,Promotions_Last_5_Years,Manager_Rating,Distance_From_Home_KM,Salary_Growth_Potential,Attrition_Probability,Attrition
+MNC10001,Capgemini,Product Management,L3,Data Scientist,Pune,Male,55,Master's,Full-Time,Remote,7,3,12,188272,2259264,345992,1,3,1,39,30,7,0,3,25.6,Low,0.3081,No
+MNC10002,Accenture,Testing/QA,L5,Cloud Engineer,Hyderabad,Female,39,Bachelor's,Full-Time,Hybrid,6,0,6,256179,3074148,225461,1,4,3,5,88,10,3,3,23.7,High,0.0077,No
+MNC10003,Cognizant,Testing/QA,L4,Cybersecurity Analyst,Mumbai,Male,50,Master's,Full-Time,Hybrid,0,3,14,222537,2670444,488195,3,3,4,37,45,3,0,5,32.5,Low,0.1079,No
+MNC10004,Capgemini,Product Management,L2,IT Support Engineer,Hyderabad,Female,34,PhD,Full-Time,Hybrid,3,8,11,247508,2970096,572285,3,2,1,40,96,5,2,5,50.7,High,0.0798,No
+MNC10005,Wipro,Software Engineering,L2,Technical Lead,Hyderabad,Female,40,Bachelor's,Full-Time,Hybrid,11,1,0,148422,1781064,531458,4,1,2,35,76,7,2,1,35.4,High,0.1028,No
+MNC10006,Tech Mahindra,Cloud & DevOps,L1,Business Analyst,Bengaluru,Female,45,Master's,Contract,Hybrid,6,2,14,249631,2995572,144375,5,5,5,26,51,3,0,5,4.6,Low,0.0074,No
+MNC10007,Cognizant,Data & AI,L5,Business Analyst,Hyderabad,Male,44,Bachelor's,Full-Time,Hybrid,15,7,3,69148,829776,333887,2,2,1,10,9,10,3,3,39.7,High,0.1525,No
+MNC10008,Cognizant,Software Engineering,L3,Business Analyst,Kochi,Female,34,Bachelor's,Full-Time,Remote,10,5,12,181770,2181240,471068,5,1,4,4,87,2,0,5,1.5,Low,0.0023,No
+MNC10009,Capgemini,Data & AI,L2,IT Support Engineer,Gurugram,Male,46,Bachelor's,Full-Time,Onsite,6,7,22,343804,4125648,35187,1,2,4,56,73,6,2,1,47.0,High,0.5744,Yes
+MNC10010,Infosys,Product Management,L3,Software Developer,Kochi,Male,43,Bachelor's,Contract,Remote,14,6,24,327594,3931128,38090,3,4,2,16,40,8,2,4,40.3,High,0.0461,No
+MNC10011,Wipro,IT Support,L3,DevOps Engineer,Bengaluru,Female,42,Master's,Full-Time,Hybrid,5,4,4,217535,2610420,469984,4,3,1,51,94,4,3,5,19.2,High,0.0231,No
+MNC10012,Capgemini,Data & AI,L2,QA Engineer,Chennai,Male,39,Master's,Full-Time,Hybrid,7,8,1,325901,3910812,318174,5,2,3,6,76,9,0,3,18.3,Low,0.0064,No
+MNC10013,Wipro,Cloud & DevOps,L1,Project Manager,Pune,Male,23,Master's,Full-Time,Onsite,10,3,22,108012,1296144,541797,4,1,1,26,2,8,2,4,48.1,High,0.3129,No
+MNC10014,Wipro,IT Support,L3,Data Scientist,Kochi,Female,39,Bachelor's,Full-Time,Onsite,12,5,0,86116,1033392,68653,5,4,4,46,58,7,2,3,47.2,High,0.0973,No
+MNC10015,Tech Mahindra,Data & AI,L3,Software Developer,Bengaluru,Male,29,Bachelor's,Full-Time,Hybrid,5,1,15,174233,2090796,391770,1,5,2,56,51,7,0,4,21.8,Low,0.2122,No
+MNC10016,Cognizant,Product Management,L3,Technical Lead,Mumbai,Male,48,Master's,Full-Time,Hybrid,9,1,22,62152,745824,266186,2,4,2,14,33,3,0,3,18.6,Low,0.0409,No
+MNC10017,Accenture,IT Support,L3,Data Scientist,Chennai,Male,40,Bachelor's,Contract,Hybrid,15,1,5,136379,1636548,193646,4,3,3,45,48,6,1,5,34.0,Medium,0.1146,No
+MNC10018,Tech Mahindra,Product Management,L4,Business Analyst,Bengaluru,Female,27,Master's,Full-Time,Hybrid,2,6,22,256905,3082860,299345,4,4,2,12,27,5,3,5,1.5,High,0.0064,No
+MNC10019,Tech Mahindra,Data & AI,L3,Cloud Engineer,Bengaluru,Female,34,Master's,Full-Time,Remote,3,1,15,50836,610032,538304,2,5,2,10,82,1,3,1,5.9,High,0.0048,No
+MNC10020,Wipro,Product Management,L3,Technical Lead,Pune,Male,29,Master's,Full-Time,Hybrid,13,1,13,251439,3017268,287166,4,1,2,59,86,3,0,4,8.4,Low,0.0878,No
+MNC10021,HCLTech,Cloud & DevOps,L4,Data Scientist,Gurugram,Male,39,Master's,Full-Time,Remote,2,8,2,216720,2600640,552226,4,2,2,44,95,1,3,1,11.9,High,0.0353,No
+MNC10022,Cognizant,Data & AI,L2,Business Analyst,Kochi,Male,34,Bachelor's,Full-Time,Hybrid,0,6,14,187403,2248836,174750,5,3,2,25,12,4,2,2,31.2,High,0.0901,No
+MNC10023,Infosys,Data & AI,L1,Data Scientist,Mumbai,Male,37,Master's,Full-Time,Hybrid,14,2,2,171835,2062020,260710,5,5,4,21,96,10,0,5,59.5,Low,0.011,No
+MNC10024,Tech Mahindra,Data & AI,L1,Cloud Engineer,Noida,Female,50,Bachelor's,Full-Time,Hybrid,9,2,22,123109,1477308,232320,2,3,1,27,97,3,0,4,39.5,Low,0.0445,No
+MNC10025,Accenture,Software Engineering,L3,Business Analyst,Kochi,Male,29,Master's,Full-Time,Hybrid,4,6,1,180259,2163108,367658,1,4,5,23,96,4,0,1,4.6,Low,0.0192,No
+MNC10026,HCLTech,Software Engineering,L3,DevOps Engineer,Noida,Male,53,Bachelor's,Full-Time,Onsite,14,4,0,173029,2076348,76478,4,3,2,28,68,9,1,1,32.0,Medium,0.0497,No
+MNC10027,HCLTech,Software Engineering,L3,Software Developer,Bengaluru,Female,45,Master's,Full-Time,Hybrid,0,5,8,112018,1344216,405377,1,5,5,8,66,3,3,2,30.3,High,0.0189,No
+MNC10028,Infosys,Cloud & DevOps,L2,Cybersecurity Analyst,Hyderabad,Female,34,Master's,Full-Time,Hybrid,0,7,8,153076,1836912,127101,2,2,5,41,60,6,1,1,9.5,Medium,0.149,No
+MNC10029,Tech Mahindra,IT Support,L1,Project Manager,Mumbai,Female,31,Bachelor's,Full-Time,Hybrid,1,8,22,188177,2258124,356843,2,2,4,3,59,6,2,3,55.3,High,0.0715,No
+MNC10030,Accenture,Product Management,L1,IT Support Engineer,Chennai,Male,55,Bachelor's,Full-Time,Hybrid,12,0,6,209425,2513100,494527,5,3,2,48,70,7,3,5,27.0,High,0.0368,No
+MNC10031,Cognizant,Testing/QA,L2,Project Manager,Hyderabad,Male,34,Master's,Full-Time,Hybrid,3,2,2,245657,2947884,361417,4,1,5,45,23,9,1,1,59.7,Medium,0.6636,Yes
+MNC10032,TCS,Data & AI,L3,Technical Lead,Hyderabad,Male,50,Bachelor's,Full-Time,Onsite,5,6,17,32637,391644,588033,3,3,2,55,62,7,0,1,25.8,Low,0.2725,No
+MNC10033,Accenture,Product Management,L2,Project Manager,Kochi,Male,24,Bachelor's,Full-Time,Hybrid,7,5,10,334169,4010028,132283,2,4,3,17,85,1,1,2,36.9,Medium,0.0291,No
+MNC10034,Infosys,Data & AI,L2,Business Analyst,Mumbai,Female,24,Bachelor's,Full-Time,Hybrid,12,6,6,267989,3215868,393445,4,2,3,42,60,8,0,3,7.2,Low,0.0625,No
+MNC10035,HCLTech,Cloud & DevOps,L4,DevOps Engineer,Gurugram,Female,48,Bachelor's,Full-Time,Hybrid,15,7,8,262259,3147108,381116,1,2,3,15,22,5,1,1,27.8,Medium,0.2258,Yes
+MNC10036,Cognizant,Data & AI,L2,Cybersecurity Analyst,Bengaluru,Female,28,Master's,Full-Time,Onsite,2,5,0,112464,1349568,441758,5,2,5,32,29,9,1,5,15.1,Medium,0.0458,No
+MNC10037,Accenture,Software Engineering,L2,Software Developer,Bengaluru,Female,22,Bachelor's,Full-Time,Hybrid,0,2,13,320886,3850632,101489,1,1,3,28,59,10,1,5,50.3,Medium,0.2397,No
+MNC10038,TCS,Testing/QA,L3,Software Developer,Bengaluru,Male,42,Bachelor's,Full-Time,Hybrid,2,1,19,41831,501972,556107,2,1,4,38,17,5,0,1,47.3,Low,0.6965,No
+MNC10039,TCS,Cybersecurity,L2,Cloud Engineer,Bengaluru,Female,36,Bachelor's,Full-Time,Hybrid,11,6,5,143768,1725216,47779,2,5,4,59,95,5,1,3,49.6,Medium,0.1848,Yes
+MNC10040,Wipro,Data & AI,L3,IT Support Engineer,Kochi,Male,49,Bachelor's,Full-Time,Hybrid,2,0,6,276983,3323796,354388,1,3,5,9,55,2,3,5,43.7,High,0.0403,No
+MNC10041,Wipro,Product Management,L4,Data Scientist,Noida,Male,50,Bachelor's,Full-Time,Hybrid,4,2,9,134824,1617888,589872,2,3,2,8,52,3,3,5,50.1,High,0.0364,No
+MNC10042,Capgemini,Software Engineering,L5,DevOps Engineer,Bengaluru,Male,32,Bachelor's,Full-Time,Remote,10,3,6,118741,1424892,413166,4,4,1,58,6,10,3,3,12.8,High,0.2105,No
+MNC10043,Infosys,Cybersecurity,L1,Data Scientist,Noida,Male,55,Bachelor's,Full-Time,Hybrid,11,0,1,48830,585960,248815,2,2,2,30,96,9,0,3,27.7,Low,0.0568,No
+MNC10044,Tech Mahindra,Testing/QA,L4,Cybersecurity Analyst,Noida,Male,31,Bachelor's,Full-Time,Hybrid,11,4,3,347188,4166256,377218,5,1,2,27,68,7,0,1,41.8,Low,0.0918,No
+MNC10045,Accenture,Cybersecurity,L2,Project Manager,Gurugram,Female,41,Master's,Full-Time,Hybrid,3,2,20,99202,1190424,361417,4,4,2,59,91,1,3,4,38.6,High,0.0648,No
+MNC10046,Accenture,Software Engineering,L2,Software Developer,Bengaluru,Male,41,Bachelor's,Full-Time,Hybrid,12,1,16,329189,3950268,254957,3,4,2,56,71,3,3,2,43.3,High,0.1885,No
+MNC10047,Tech Mahindra,IT Support,L2,Cybersecurity Analyst,Pune,Male,25,Master's,Full-Time,Hybrid,3,2,0,247394,2968728,595644,2,1,1,2,78,2,3,4,14.2,High,0.0087,No
+MNC10048,Capgemini,IT Support,L5,Project Manager,Chennai,Male,40,Bachelor's,Full-Time,Hybrid,8,7,9,232123,2785476,145364,2,3,3,53,51,1,2,4,6.8,High,0.1288,Yes
+MNC10049,HCLTech,Cybersecurity,L2,Software Developer,Hyderabad,Female,23,Bachelor's,Full-Time,Hybrid,6,5,18,187699,2252388,527340,5,2,2,54,3,9,3,5,55.1,High,0.4959,No
+MNC10050,HCLTech,Cloud & DevOps,L2,Project Manager,Noida,Female,53,Master's,Full-Time,Hybrid,3,6,14,307342,3688104,306521,5,3,4,13,33,8,1,3,34.1,Medium,0.0306,No
+MNC10051,Capgemini,Product Management,L3,IT Support Engineer,Mumbai,Female,29,Bachelor's,Full-Time,Onsite,2,5,9,136471,1637652,198910,1,4,5,57,68,5,2,5,10.1,High,0.1061,No
+MNC10052,HCLTech,Product Management,L2,DevOps Engineer,Mumbai,Male,29,Master's,Full-Time,Hybrid,5,5,18,321619,3859428,329963,1,2,5,24,32,2,2,2,47.8,High,0.3573,No
+MNC10053,Wipro,Cybersecurity,L1,Technical Lead,Chennai,Female,24,Master's,Full-Time,Hybrid,2,2,11,266824,3201888,146692,1,5,4,14,68,1,0,1,55.0,Low,0.0975,No
+MNC10054,Accenture,Data & AI,L1,Cybersecurity Analyst,Mumbai,Male,55,Bachelor's,Full-Time,Onsite,5,7,23,49403,592836,30461,5,4,2,1,37,7,1,2,11.0,Medium,0.0065,No
+MNC10055,Capgemini,Data & AI,L1,Cybersecurity Analyst,Pune,Female,37,Master's,Full-Time,Remote,10,6,15,33681,404172,9472,1,3,1,23,97,2,0,5,49.2,Low,0.0631,Yes
+MNC10056,Accenture,Product Management,L1,QA Engineer,Mumbai,Female,54,Master's,Full-Time,Hybrid,12,6,8,145260,1743120,112036,1,3,3,13,25,1,0,5,56.1,Low,0.2303,Yes
+MNC10057,Tech Mahindra,Product Management,L1,Business Analyst,Hyderabad,Male,44,Bachelor's,Full-Time,Remote,10,5,14,203364,2440368,188674,3,3,5,47,0,2,1,5,56.4,Medium,0.6175,No
+MNC10058,TCS,IT Support,L3,IT Support Engineer,Hyderabad,Male,52,Bachelor's,Full-Time,Remote,12,4,16,135386,1624632,287667,1,1,3,6,3,7,0,5,54.9,Low,0.3355,No
+MNC10059,Wipro,Cloud & DevOps,L1,IT Support Engineer,Noida,Male,21,Bachelor's,Full-Time,Hybrid,12,7,13,263378,3160536,590348,2,4,1,35,38,7,1,4,33.2,Medium,0.1528,No
+MNC10060,Cognizant,Software Engineering,L2,Data Scientist,Bengaluru,Male,28,Master's,Full-Time,Onsite,11,4,17,123246,1478952,271223,5,2,5,49,53,10,1,1,22.0,Medium,0.1394,Yes
+MNC10061,Wipro,Data & AI,L4,Project Manager,Gurugram,Male,43,Master's,Full-Time,Onsite,8,8,1,125864,1510368,322870,4,3,3,23,89,6,0,4,1.4,Low,0.0057,No
+MNC10062,Capgemini,Product Management,L2,Business Analyst,Pune,Female,32,Master's,Full-Time,Hybrid,5,8,3,238886,2866632,355050,3,3,1,26,32,5,3,5,4.6,High,0.0254,No
+MNC10063,Cognizant,IT Support,L3,DevOps Engineer,Noida,Male,32,Master's,Full-Time,Hybrid,11,0,17,300561,3606732,278676,5,1,3,36,32,3,0,3,26.3,Low,0.1419,No
+MNC10064,TCS,Testing/QA,L1,DevOps Engineer,Pune,Male,35,Bachelor's,Full-Time,Hybrid,3,5,6,195837,2350044,475573,5,2,2,37,71,3,2,4,24.6,High,0.0356,No
+MNC10065,Capgemini,IT Support,L1,IT Support Engineer,Bengaluru,Male,39,Bachelor's,Full-Time,Hybrid,14,6,12,275160,3301920,43162,2,4,1,29,19,9,0,5,11.9,Low,0.0852,Yes
+MNC10066,Infosys,Data & AI,L1,DevOps Engineer,Kochi,Male,46,Master's,Full-Time,Hybrid,4,2,14,217646,2611752,273497,1,5,3,26,15,4,1,5,24.3,Medium,0.1039,No
+MNC10067,Accenture,Data & AI,L1,QA Engineer,Mumbai,Female,49,Master's,Full-Time,Remote,12,6,24,289278,3471336,112313,2,1,2,38,20,9,2,1,11.3,High,0.3671,No
+MNC10068,TCS,IT Support,L2,Cybersecurity Analyst,Mumbai,Male,42,PhD,Full-Time,Onsite,5,6,22,319819,3837828,28477,1,4,2,14,44,4,1,2,51.1,Medium,0.1417,Yes
+MNC10069,Accenture,Software Engineering,L1,Cloud Engineer,Gurugram,Female,41,Bachelor's,Full-Time,Onsite,10,1,21,286681,3440172,86373,1,5,1,25,89,2,3,4,18.6,High,0.0131,No
+MNC10070,HCLTech,Cybersecurity,L1,Technical Lead,Bengaluru,Female,40,Bachelor's,Full-Time,Onsite,2,6,0,201635,2419620,528839,5,3,4,0,86,4,3,4,36.3,High,0.0033,No
+MNC10071,Infosys,Data & AI,L1,Data Scientist,Noida,Female,49,Master's,Full-Time,Remote,7,0,10,41332,495984,68359,1,3,5,55,81,6,2,4,30.7,High,0.2099,No
+MNC10072,Infosys,IT Support,L2,Project Manager,Gurugram,Female,24,Master's,Full-Time,Hybrid,3,4,9,284817,3417804,448096,3,2,1,3,61,6,3,5,4.1,High,0.0043,No
+MNC10073,TCS,Product Management,L2,Technical Lead,Bengaluru,Male,27,Bachelor's,Contract,Hybrid,7,8,24,311321,3735852,143988,3,5,2,28,30,5,3,1,56.6,High,0.1933,Yes
+MNC10074,Infosys,IT Support,L2,Project Manager,Chennai,Female,48,Master's,Full-Time,Onsite,9,6,4,250326,3003912,126150,3,3,2,56,41,1,0,5,32.1,Low,0.2887,No
+MNC10075,Cognizant,Cloud & DevOps,L2,Software Developer,Hyderabad,Male,48,Bachelor's,Full-Time,Hybrid,9,6,15,229519,2754228,473919,5,3,1,0,11,3,0,5,20.2,Low,0.0128,No
+MNC10076,Infosys,Cybersecurity,L3,Technical Lead,Gurugram,Male,24,Master's,Full-Time,Onsite,15,1,10,291849,3502188,309780,2,2,4,42,64,5,3,3,10.3,High,0.0802,No
+MNC10077,Accenture,Testing/QA,L1,Cloud Engineer,Gurugram,Female,42,Master's,Full-Time,Remote,2,7,20,349248,4190976,467143,4,4,5,49,72,6,3,1,21.0,High,0.0679,No
+MNC10078,Accenture,Software Engineering,L4,IT Support Engineer,Noida,Female,32,Master's,Full-Time,Hybrid,9,2,5,110730,1328760,351060,1,3,3,45,2,1,0,4,2.2,Low,0.3148,Yes
+MNC10079,Capgemini,Testing/QA,L3,QA Engineer,Pune,Female,23,Master's,Full-Time,Hybrid,6,7,8,267474,3209688,107967,4,1,1,21,89,9,3,2,22.4,High,0.0192,No
+MNC10080,Accenture,Cybersecurity,L1,Cybersecurity Analyst,Chennai,Male,42,Bachelor's,Full-Time,Remote,10,2,12,320477,3845724,94455,2,1,5,10,8,3,3,4,32.4,High,0.1436,Yes
+MNC10081,Capgemini,Cybersecurity,L4,Cybersecurity Analyst,Noida,Male,22,Bachelor's,Full-Time,Hybrid,12,6,23,313817,3765804,461063,2,4,5,9,50,10,1,5,52.4,Medium,0.0443,No
+MNC10082,Accenture,Cybersecurity,L4,QA Engineer,Bengaluru,Female,44,PhD,Full-Time,Hybrid,11,1,7,70870,850440,175405,5,5,2,58,15,3,3,1,41.6,High,0.3039,Yes
+MNC10083,Cognizant,Testing/QA,L1,Business Analyst,Bengaluru,Male,54,Bachelor's,Full-Time,Remote,8,3,13,283017,3396204,239646,3,2,3,16,87,2,2,1,7.6,High,0.0135,No
+MNC10084,Tech Mahindra,Product Management,L2,Software Developer,Bengaluru,Female,47,Master's,Full-Time,Hybrid,3,5,23,157536,1890432,189937,3,1,1,35,77,8,1,1,9.7,Medium,0.0731,No
+MNC10085,Capgemini,Cybersecurity,L4,Project Manager,Kochi,Female,21,Bachelor's,Contract,Hybrid,7,8,0,314965,3779580,472312,2,1,2,55,2,3,2,3,26.3,High,0.7321,Yes
+MNC10086,Wipro,IT Support,L3,Cloud Engineer,Bengaluru,Male,28,Master's,Full-Time,Hybrid,2,4,16,55494,665928,385007,5,4,2,46,97,6,3,4,12.5,High,0.0082,No
+MNC10087,HCLTech,Testing/QA,L1,DevOps Engineer,Pune,Male,43,Master's,Full-Time,Hybrid,15,8,23,129477,1553724,61192,5,5,4,25,96,2,0,3,2.6,Low,0.0029,No
+MNC10088,TCS,Cybersecurity,L2,Technical Lead,Chennai,Male,26,Master's,Contract,Onsite,6,4,4,235232,2822784,191758,1,5,5,47,23,7,1,2,48.5,Medium,0.5467,Yes
+MNC10089,Accenture,IT Support,L2,Software Developer,Mumbai,Male,42,Bachelor's,Full-Time,Hybrid,2,7,24,310790,3729480,235161,3,4,1,20,72,4,0,5,2.2,Low,0.0067,No
+MNC10090,Infosys,Product Management,L2,Technical Lead,Hyderabad,Female,45,Master's,Contract,Hybrid,11,0,1,153777,1845324,286287,2,1,1,12,12,9,1,3,50.0,Medium,0.323,No
+MNC10091,Tech Mahindra,Cloud & DevOps,L3,Cloud Engineer,Pune,Male,38,Bachelor's,Full-Time,Remote,14,6,24,107360,1288320,107044,4,2,1,8,1,10,0,3,9.5,Low,0.0464,No
+MNC10092,Accenture,Product Management,L2,Data Scientist,Pune,Female,37,Bachelor's,Full-Time,Hybrid,14,3,23,329479,3953748,505173,3,1,2,10,70,9,1,5,58.5,Medium,0.0556,No
+MNC10093,Infosys,Cybersecurity,L2,Data Scientist,Kochi,Male,32,Master's,Full-Time,Remote,6,4,8,163501,1962012,181062,1,5,4,10,20,7,1,1,36.6,Medium,0.1063,No
+MNC10094,HCLTech,Testing/QA,L3,Software Developer,Mumbai,Other,26,Master's,Full-Time,Hybrid,13,5,3,334094,4009128,456104,5,1,3,5,18,8,2,5,44.4,High,0.0456,No
+MNC10095,HCLTech,Data & AI,L1,IT Support Engineer,Mumbai,Male,46,Master's,Full-Time,Onsite,10,4,16,90654,1087848,69351,2,2,2,0,88,3,0,4,7.5,Low,0.0058,No
+MNC10096,HCLTech,Cybersecurity,L2,Cloud Engineer,Hyderabad,Male,47,Bachelor's,Contract,Hybrid,9,0,16,149975,1799700,490588,3,3,3,53,46,5,2,5,51.9,High,0.3321,Yes
+MNC10097,Infosys,Data & AI,L3,Cloud Engineer,Hyderabad,Male,28,Bachelor's,Full-Time,Onsite,9,8,20,229215,2750580,234085,4,1,4,5,21,2,2,1,50.5,High,0.1379,No
+MNC10098,Accenture,IT Support,L4,QA Engineer,Mumbai,Female,39,Bachelor's,Full-Time,Hybrid,10,1,17,132326,1587912,498095,1,4,5,12,74,10,0,5,39.5,Low,0.0275,No
+MNC10099,HCLTech,Cloud & DevOps,L2,IT Support Engineer,Bengaluru,Female,21,Bachelor's,Full-Time,Remote,10,8,15,107527,1290324,70309,1,3,1,21,32,7,1,3,30.6,Medium,0.1526,No
+MNC10100,Cognizant,Software Engineering,L3,Project Manager,Pune,Female,49,Bachelor's,Full-Time,Onsite,5,1,7,196991,2363892,119156,3,4,3,55,31,8,2,2,43.6,High,0.4052,Yes
+MNC10101,Capgemini,Product Management,L1,Project Manager,Noida,Male,55,Master's,Full-Time,Hybrid,1,8,10,126952,1523424,338144,4,4,2,30,63,9,0,3,1.3,Low,0.0158,No
+MNC10102,Infosys,Cloud & DevOps,L2,DevOps Engineer,Hyderabad,Male,34,Bachelor's,Full-Time,Hybrid,10,5,20,176895,2122740,441848,1,4,3,21,84,7,1,2,36.0,Medium,0.05,No
+MNC10103,Infosys,Cybersecurity,L3,Cybersecurity Analyst,Kochi,Male,55,Master's,Full-Time,Hybrid,2,8,20,76015,912180,21576,2,1,5,36,38,10,2,5,51.0,High,0.3647,No
+MNC10104,Accenture,Data & AI,L2,Data Scientist,Kochi,Male,40,Master's,Full-Time,Hybrid,15,5,17,132877,1594524,527608,1,5,1,46,83,10,2,4,22.1,High,0.0567,No
+MNC10105,Infosys,Product Management,L2,Project Manager,Hyderabad,Male,33,Master's,Full-Time,Hybrid,5,5,22,307483,3689796,184535,4,3,3,26,71,8,2,5,7.4,High,0.0085,No
+MNC10106,Infosys,Data & AI,L2,IT Support Engineer,Mumbai,Other,28,Master's,Full-Time,Onsite,13,1,23,164563,1974756,26572,5,2,5,49,41,9,1,1,25.8,Medium,0.1999,No
+MNC10107,HCLTech,Testing/QA,L1,Cloud Engineer,Chennai,Female,40,Master's,Full-Time,Hybrid,3,7,9,127493,1529916,280092,5,5,2,51,100,6,2,5,43.9,High,0.0251,No
+MNC10108,Accenture,Data & AI,L2,Project Manager,Noida,Female,53,Bachelor's,Full-Time,Onsite,5,2,12,176800,2121600,520114,3,1,4,13,8,10,1,2,7.3,Medium,0.0855,No
+MNC10109,HCLTech,Testing/QA,L2,Cloud Engineer,Noida,Female,46,Bachelor's,Full-Time,Hybrid,0,6,16,221480,2657760,89051,4,4,2,46,24,2,3,3,13.2,High,0.088,No
+MNC10110,Capgemini,IT Support,L2,Project Manager,Hyderabad,Male,41,Bachelor's,Full-Time,Onsite,9,4,17,151648,1819776,191303,1,2,1,57,88,2,2,4,9.7,High,0.125,No
+MNC10111,Tech Mahindra,Product Management,L1,Data Scientist,Bengaluru,Male,29,Bachelor's,Full-Time,Remote,11,2,9,317307,3807684,203305,1,3,2,4,96,4,3,5,48.0,High,0.0148,No
+MNC10112,Capgemini,Product Management,L4,Technical Lead,Chennai,Female,44,Master's,Full-Time,Hybrid,0,0,15,178790,2145480,306822,5,5,2,57,1,9,0,5,4.7,Low,0.1011,No
+MNC10113,Tech Mahindra,Software Engineering,L3,Project Manager,Noida,Female,37,Bachelor's,Full-Time,Hybrid,2,7,19,117508,1410096,457576,5,5,2,35,18,7,2,3,41.5,High,0.0885,No
+MNC10114,HCLTech,Cybersecurity,L3,IT Support Engineer,Hyderabad,Male,44,Master's,Full-Time,Hybrid,7,2,4,244839,2938068,573722,2,2,2,31,19,2,0,4,22.6,Low,0.2127,Yes
+MNC10115,Capgemini,Testing/QA,L3,Project Manager,Kochi,Male,41,Master's,Full-Time,Hybrid,7,1,12,331763,3981156,66617,5,1,1,33,92,8,0,5,45.6,Low,0.0411,No
+MNC10116,Accenture,Software Engineering,L2,Cybersecurity Analyst,Noida,Male,33,Bachelor's,Full-Time,Remote,10,0,17,304270,3651240,510874,2,3,5,6,69,7,0,5,57.9,Low,0.04,No
+MNC10117,TCS,Data & AI,L1,Data Scientist,Gurugram,Male,31,PhD,Full-Time,Onsite,3,3,16,94926,1139112,369792,1,2,3,41,16,9,3,2,7.8,High,0.3248,No
+MNC10118,HCLTech,Data & AI,L3,IT Support Engineer,Chennai,Female,39,Bachelor's,Full-Time,Hybrid,5,7,8,70633,847596,81494,2,4,4,47,88,8,1,2,19.5,Medium,0.0729,Yes
+MNC10119,Tech Mahindra,Software Engineering,L3,QA Engineer,Chennai,Female,31,Bachelor's,Full-Time,Hybrid,14,2,13,238726,2864712,82867,2,3,3,9,67,3,3,1,48.8,High,0.0511,No
+MNC10120,Cognizant,Product Management,L3,IT Support Engineer,Gurugram,Male,33,Master's,Full-Time,Onsite,7,0,16,33317,399804,168600,3,5,3,49,93,1,3,3,16.7,High,0.0218,Yes
+MNC10121,Tech Mahindra,Data & AI,L2,Cybersecurity Analyst,Pune,Female,21,Bachelor's,Full-Time,Onsite,6,3,3,337124,4045488,458818,5,2,4,16,83,2,0,4,13.7,Low,0.0061,No
+MNC10122,Cognizant,IT Support,L1,Technical Lead,Kochi,Female,39,Master's,Full-Time,Hybrid,10,8,17,336259,4035108,254265,2,5,1,29,2,2,2,5,49.7,High,0.2377,No
+MNC10123,Infosys,IT Support,L2,Data Scientist,Gurugram,Male,32,Bachelor's,Full-Time,Onsite,6,0,19,222718,2672616,519493,1,5,4,20,86,4,1,5,59.2,Medium,0.0408,No
+MNC10124,Capgemini,Software Engineering,L2,QA Engineer,Mumbai,Male,28,Bachelor's,Full-Time,Hybrid,12,1,23,335302,4023624,164404,4,5,1,59,50,6,0,1,33.9,Low,0.23,Yes
+MNC10125,Cognizant,Testing/QA,L3,Cybersecurity Analyst,Mumbai,Male,28,Master's,Full-Time,Hybrid,3,8,23,217035,2604420,484353,2,1,3,12,81,4,1,5,17.4,Medium,0.0179,No
+MNC10126,Tech Mahindra,Testing/QA,L3,Cybersecurity Analyst,Hyderabad,Male,32,Bachelor's,Full-Time,Remote,8,1,14,210388,2524656,264395,5,5,1,0,25,9,3,3,24.5,High,0.0053,No
+MNC10127,Infosys,Software Engineering,L2,Software Developer,Chennai,Female,53,Bachelor's,Full-Time,Hybrid,11,2,10,307648,3691776,97382,3,4,5,0,55,4,1,1,11.0,Medium,0.0078,No
+MNC10128,TCS,Testing/QA,L5,Data Scientist,Pune,Male,46,Bachelor's,Full-Time,Hybrid,9,6,11,229665,2755980,479767,1,4,4,46,99,6,1,3,46.0,Medium,0.1449,No
+MNC10129,Accenture,Product Management,L3,IT Support Engineer,Pune,Female,48,Master's,Full-Time,Hybrid,5,2,8,329340,3952080,9583,3,3,5,32,63,6,2,1,46.6,High,0.1342,No
+MNC10130,Accenture,Product Management,L2,Cloud Engineer,Noida,Male,25,Bachelor's,Full-Time,Remote,13,8,12,349532,4194384,574675,4,5,3,37,7,10,0,5,52.6,Low,0.2093,Yes
+MNC10131,Accenture,Testing/QA,L1,Technical Lead,Noida,Male,28,Bachelor's,Contract,Hybrid,11,5,14,242369,2908428,285248,2,5,4,24,80,10,1,1,2.6,Medium,0.0166,No
+MNC10132,Cognizant,IT Support,L1,Cloud Engineer,Gurugram,Male,45,Bachelor's,Full-Time,Remote,10,2,14,85501,1026012,536512,2,2,3,25,94,1,1,2,34.2,Medium,0.0602,No
+MNC10133,TCS,Testing/QA,L2,IT Support Engineer,Pune,Male,47,Bachelor's,Full-Time,Hybrid,2,8,4,214381,2572572,449274,5,1,5,12,36,8,3,4,13.6,High,0.0159,No
+MNC10134,Cognizant,Product Management,L1,IT Support Engineer,Gurugram,Male,43,Master's,Contract,Hybrid,4,0,22,57043,684516,227444,2,3,3,58,96,3,3,5,21.1,High,0.0831,No
+MNC10135,Capgemini,Cloud & DevOps,L1,Data Scientist,Kochi,Female,50,Master's,Full-Time,Hybrid,4,2,18,63635,763620,340716,1,5,4,27,26,6,1,4,47.3,Medium,0.1995,Yes
+MNC10136,Cognizant,Cybersecurity,L2,IT Support Engineer,Gurugram,Male,43,Bachelor's,Contract,Hybrid,13,0,19,240387,2884644,466690,4,2,4,32,44,3,0,5,12.3,Low,0.0474,No
+MNC10137,TCS,Data & AI,L1,Software Developer,Noida,Female,40,Master's,Full-Time,Hybrid,4,1,24,110691,1328292,266285,3,1,3,36,3,2,1,4,38.7,Medium,0.4699,Yes
+MNC10138,TCS,Cloud & DevOps,L4,QA Engineer,Chennai,Male,38,Bachelor's,Full-Time,Hybrid,7,7,13,325276,3903312,468298,4,3,4,40,85,5,1,2,39.6,Medium,0.0725,No
+MNC10139,Capgemini,Testing/QA,L1,IT Support Engineer,Gurugram,Male,38,Master's,Full-Time,Onsite,15,6,16,307510,3690120,136149,2,3,4,29,89,1,2,4,57.3,High,0.0916,No
+MNC10140,TCS,IT Support,L3,Cloud Engineer,Bengaluru,Male,22,Master's,Full-Time,Hybrid,8,1,17,123944,1487328,570303,3,5,3,56,95,9,0,1,46.7,Low,0.1544,No
+MNC10141,Tech Mahindra,Software Engineering,L2,IT Support Engineer,Chennai,Female,24,Bachelor's,Full-Time,Hybrid,12,1,20,233179,2798148,171929,5,3,5,48,87,7,2,4,48.4,High,0.0595,No
+MNC10142,TCS,Testing/QA,L5,Software Developer,Pune,Male,50,Master's,Full-Time,Onsite,8,8,2,69236,830832,190912,4,2,4,47,98,3,0,5,32.4,Low,0.0541,No
+MNC10143,Accenture,IT Support,L1,Project Manager,Pune,Male,53,Master's,Full-Time,Onsite,12,5,1,296294,3555528,5577,3,3,4,7,36,4,0,3,12.0,Low,0.0242,No
+MNC10144,Tech Mahindra,Cybersecurity,L2,Project Manager,Gurugram,Female,38,Bachelor's,Full-Time,Onsite,5,4,0,311567,3738804,50711,3,4,4,48,95,6,0,4,26.1,Low,0.043,No
+MNC10145,Tech Mahindra,Testing/QA,L5,Cybersecurity Analyst,Chennai,Male,39,Bachelor's,Full-Time,Hybrid,5,5,9,34137,409644,563739,3,2,4,46,70,3,2,4,33.4,High,0.1311,No
+MNC10146,Capgemini,Product Management,L4,Technical Lead,Noida,Male,48,Bachelor's,Full-Time,Hybrid,8,8,18,59992,719904,493027,1,1,3,55,32,7,2,4,41.0,High,0.6942,No
+MNC10147,Wipro,Software Engineering,L4,DevOps Engineer,Noida,Male,40,Master's,Contract,Remote,3,6,16,145140,1741680,421863,4,1,5,0,30,6,2,5,36.9,High,0.032,No
+MNC10148,Wipro,IT Support,L2,QA Engineer,Mumbai,Female,53,Master's,Full-Time,Hybrid,5,8,11,205993,2471916,559119,3,5,5,11,54,9,3,4,24.2,High,0.0085,No
+MNC10149,TCS,IT Support,L1,Business Analyst,Pune,Female,32,Master's,Full-Time,Onsite,3,3,0,151225,1814700,249402,4,5,1,4,11,5,2,5,16.7,High,0.009,No
+MNC10150,Tech Mahindra,IT Support,L3,Cybersecurity Analyst,Hyderabad,Male,35,Master's,Full-Time,Hybrid,10,1,11,326379,3916548,244942,3,4,4,23,10,4,3,5,10.9,High,0.0316,No
+MNC10151,Wipro,Cybersecurity,L4,Technical Lead,Mumbai,Male,22,Master's,Full-Time,Remote,15,7,16,240047,2880564,95119,5,1,4,5,87,3,3,3,41.9,High,0.0098,No
+MNC10152,Wipro,Testing/QA,L3,Project Manager,Noida,Other,49,Master's,Full-Time,Hybrid,0,3,23,49122,589464,342776,5,1,1,24,71,10,3,1,39.1,High,0.048,No
+MNC10153,TCS,Cybersecurity,L3,Cloud Engineer,Chennai,Female,30,Master's,Full-Time,Onsite,6,8,2,316100,3793200,585842,5,1,5,0,31,1,1,5,41.6,Medium,0.0261,No
+MNC10154,Wipro,Data & AI,L2,Business Analyst,Kochi,Male,22,Bachelor's,Full-Time,Remote,13,3,10,93879,1126548,50755,2,1,2,24,56,3,1,2,23.0,Medium,0.1125,No
+MNC10155,Cognizant,Data & AI,L3,Technical Lead,Noida,Female,31,Bachelor's,Full-Time,Hybrid,9,7,16,88560,1062720,153412,3,3,2,0,37,3,1,4,16.5,Medium,0.0125,No
+MNC10156,Infosys,Testing/QA,L1,Technical Lead,Chennai,Male,33,Master's,Full-Time,Onsite,10,8,22,229757,2757084,588172,2,2,5,31,59,7,3,2,45.8,High,0.2147,No
+MNC10157,Capgemini,Product Management,L2,Cybersecurity Analyst,Mumbai,Female,30,Bachelor's,Full-Time,Onsite,11,8,2,267268,3207216,541770,4,2,4,41,85,7,3,4,46.6,High,0.0725,No
+MNC10158,Infosys,Cybersecurity,L2,Business Analyst,Pune,Female,34,Master's,Full-Time,Hybrid,5,3,7,293312,3519744,54225,2,4,2,41,97,1,0,3,27.9,Low,0.05,Yes
+MNC10159,TCS,Software Engineering,L2,Data Scientist,Noida,Male,38,Bachelor's,Full-Time,Onsite,8,0,19,337268,4047216,189921,4,3,3,2,18,3,3,5,37.1,High,0.0196,No
+MNC10160,Accenture,IT Support,L2,DevOps Engineer,Gurugram,Female,29,Bachelor's,Full-Time,Hybrid,6,2,3,196969,2363628,599142,4,1,3,48,83,8,1,1,23.0,Medium,0.1256,Yes
+MNC10161,Capgemini,IT Support,L1,Data Scientist,Chennai,Female,48,Master's,Full-Time,Hybrid,12,8,20,176104,2113248,565544,4,1,1,18,55,9,3,5,42.4,High,0.0488,No
+MNC10162,TCS,Testing/QA,L3,Business Analyst,Pune,Female,23,Bachelor's,Full-Time,Remote,6,3,21,344941,4139292,240617,2,5,5,59,13,7,3,4,50.3,High,0.5226,Yes
+MNC10163,Tech Mahindra,Product Management,L2,Data Scientist,Kochi,Male,40,Bachelor's,Full-Time,Hybrid,1,4,6,327438,3929256,108721,3,5,5,42,32,7,0,1,41.6,Low,0.2546,No
+MNC10164,Accenture,Data & AI,L3,Software Developer,Kochi,Male,26,Bachelor's,Full-Time,Onsite,11,6,13,295660,3547920,113606,2,4,2,28,9,8,3,5,31.2,High,0.121,No
+MNC10165,Infosys,Data & AI,L1,Project Manager,Hyderabad,Male,47,Master's,Full-Time,Onsite,10,4,13,180823,2169876,538938,3,1,4,49,79,6,2,1,28.1,High,0.2216,No
+MNC10166,TCS,IT Support,L2,Software Developer,Chennai,Female,22,Bachelor's,Full-Time,Hybrid,14,3,3,60373,724476,177190,3,4,5,1,63,3,0,4,38.9,Low,0.0117,No
+MNC10167,Tech Mahindra,Testing/QA,L3,IT Support Engineer,Mumbai,Male,49,Master's,Full-Time,Hybrid,8,1,15,152026,1824312,28930,4,3,2,8,63,1,3,3,41.1,High,0.0147,No
+MNC10168,Capgemini,Cybersecurity,L1,Data Scientist,Hyderabad,Male,23,Bachelor's,Full-Time,Hybrid,9,1,23,60270,723240,260102,2,2,2,55,61,7,3,3,34.0,High,0.3318,Yes
+MNC10169,Capgemini,Data & AI,L2,IT Support Engineer,Hyderabad,Female,36,PhD,Full-Time,Hybrid,8,3,21,262931,3155172,362544,3,1,5,16,67,1,0,5,37.9,Low,0.0462,No
+MNC10170,HCLTech,Cybersecurity,L1,Cloud Engineer,Bengaluru,Male,50,Master's,Full-Time,Hybrid,5,8,0,225889,2710668,273945,5,3,2,59,90,1,3,2,6.7,High,0.0373,No
+MNC10171,Tech Mahindra,Product Management,L1,QA Engineer,Noida,Female,22,Bachelor's,Full-Time,Onsite,12,7,16,95184,1142208,575648,3,1,1,45,91,9,1,4,57.2,Medium,0.2501,No
+MNC10172,Cognizant,Data & AI,L5,Cloud Engineer,Chennai,Male,37,Bachelor's,Full-Time,Hybrid,2,2,24,240765,2889180,147631,5,5,1,35,42,10,2,5,47.7,High,0.0409,No
+MNC10173,Wipro,Data & AI,L2,Business Analyst,Hyderabad,Female,32,Bachelor's,Full-Time,Onsite,0,8,9,67879,814548,294478,2,4,5,60,79,7,2,5,23.1,High,0.1056,Yes
+MNC10174,Accenture,Cloud & DevOps,L4,Technical Lead,Bengaluru,Male,55,Master's,Full-Time,Hybrid,3,4,21,341741,4100892,236545,2,5,4,16,58,4,1,3,34.2,Medium,0.0281,No
+MNC10175,Tech Mahindra,Data & AI,L2,Project Manager,Mumbai,Male,21,Bachelor's,Full-Time,Hybrid,13,2,15,33626,403512,13288,2,2,1,48,51,6,3,1,3.8,High,0.1608,No
+MNC10176,HCLTech,Software Engineering,L3,Data Scientist,Pune,Male,35,Bachelor's,Full-Time,Remote,13,4,15,115936,1391232,207302,3,5,1,11,96,1,3,4,3.4,High,0.0013,No
+MNC10177,Wipro,Testing/QA,L3,Cybersecurity Analyst,Gurugram,Male,46,Bachelor's,Full-Time,Hybrid,2,3,7,264873,3178476,280195,1,1,5,59,18,7,2,1,15.8,High,0.7247,No
+MNC10178,Wipro,Testing/QA,L3,QA Engineer,Gurugram,Female,41,Bachelor's,Full-Time,Hybrid,13,7,6,111515,1338180,61715,3,5,3,19,20,6,3,4,41.7,High,0.0544,No
+MNC10179,TCS,Cybersecurity,L2,DevOps Engineer,Chennai,Female,51,Bachelor's,Full-Time,Hybrid,11,4,5,238137,2857644,10737,3,1,2,49,21,4,2,2,51.3,High,0.6694,Yes
+MNC10180,Wipro,Product Management,L2,DevOps Engineer,Hyderabad,Female,45,Master's,Full-Time,Hybrid,0,7,15,85390,1024680,589428,4,2,1,2,8,7,2,3,34.0,High,0.0517,No
+MNC10181,Cognizant,Data & AI,L2,DevOps Engineer,Gurugram,Male,43,PhD,Full-Time,Hybrid,2,8,19,253032,3036384,182047,4,5,3,42,8,3,1,2,32.4,Medium,0.2033,Yes
+MNC10182,Capgemini,Software Engineering,L4,Data Scientist,Noida,Male,44,Bachelor's,Full-Time,Remote,15,3,15,84144,1009728,267291,3,4,4,56,72,1,2,5,24.7,High,0.0721,Yes
+MNC10183,HCLTech,Cybersecurity,L4,DevOps Engineer,Gurugram,Male,48,Bachelor's,Full-Time,Hybrid,13,6,6,174454,2093448,574796,5,4,3,49,26,4,3,3,10.5,High,0.0649,Yes
+MNC10184,Wipro,Cloud & DevOps,L5,Software Developer,Gurugram,Female,41,Bachelor's,Full-Time,Hybrid,13,1,8,34025,408300,314368,4,4,5,3,16,3,3,5,8.0,High,0.0059,No
+MNC10185,TCS,Cybersecurity,L1,QA Engineer,Gurugram,Female,38,Master's,Full-Time,Hybrid,3,5,13,284043,3408516,281787,3,5,4,16,43,1,0,2,45.9,Low,0.0686,Yes
+MNC10186,Cognizant,Cybersecurity,L3,Software Developer,Kochi,Male,55,Master's,Full-Time,Hybrid,12,7,10,148910,1786920,301111,1,5,4,49,44,2,3,4,55.7,High,0.3508,No
+MNC10187,Infosys,Data & AI,L4,Technical Lead,Bengaluru,Male,29,Master's,Full-Time,Hybrid,12,6,13,126055,1512660,103535,5,5,3,36,7,5,0,5,28.0,Low,0.0695,No
+MNC10188,Capgemini,Cloud & DevOps,L1,QA Engineer,Hyderabad,Female,50,PhD,Full-Time,Onsite,14,6,6,235782,2829384,296952,2,1,5,45,79,8,2,1,39.9,High,0.3467,Yes
+MNC10189,Capgemini,Cybersecurity,L1,Software Developer,Noida,Female,54,Bachelor's,Full-Time,Hybrid,13,7,0,313539,3762468,512438,3,2,1,41,17,1,3,4,55.0,High,0.4788,No
+MNC10190,HCLTech,Software Engineering,L3,QA Engineer,Hyderabad,Female,52,Master's,Full-Time,Hybrid,7,6,24,302869,3634428,583247,3,4,3,14,32,4,1,4,6.3,Medium,0.0158,No
+MNC10191,Capgemini,Software Engineering,L3,Technical Lead,Kochi,Female,23,Master's,Full-Time,Hybrid,8,4,12,63461,761532,395065,5,1,1,32,0,4,1,2,46.5,Medium,0.3888,Yes
+MNC10192,Wipro,Testing/QA,L4,IT Support Engineer,Chennai,Male,23,Bachelor's,Full-Time,Hybrid,2,6,19,288072,3456864,330322,4,4,3,15,75,5,1,2,37.4,Medium,0.0171,No
+MNC10193,TCS,Cloud & DevOps,L1,Data Scientist,Chennai,Male,48,Master's,Full-Time,Remote,5,2,2,71115,853380,191812,4,1,1,10,5,7,2,3,36.3,High,0.1219,No
+MNC10194,Capgemini,Cloud & DevOps,L4,Data Scientist,Chennai,Female,35,Bachelor's,Contract,Onsite,9,4,19,140084,1681008,112255,4,5,3,54,40,8,2,3,18.3,High,0.0945,No
+MNC10195,Capgemini,Testing/QA,L2,DevOps Engineer,Mumbai,Female,43,Master's,Full-Time,Hybrid,10,6,3,189762,2277144,508522,2,4,4,19,54,6,0,1,41.3,Low,0.1025,No
+MNC10196,Infosys,Cybersecurity,L1,Cloud Engineer,Gurugram,Male,31,Bachelor's,Full-Time,Hybrid,14,8,10,293551,3522612,1132,5,5,2,37,4,1,1,4,47.9,Medium,0.1696,No
+MNC10197,Infosys,Cloud & DevOps,L1,DevOps Engineer,Mumbai,Female,52,Bachelor's,Full-Time,Remote,4,1,1,103568,1242816,259427,5,4,4,23,58,7,0,1,7.7,Low,0.0143,No
+MNC10198,Accenture,Software Engineering,L4,Business Analyst,Bengaluru,Female,53,Master's,Full-Time,Remote,15,3,13,88560,1062720,431779,4,3,1,60,79,3,0,1,32.5,Low,0.2096,No
+MNC10199,Cognizant,Software Engineering,L3,Software Developer,Chennai,Female,44,Bachelor's,Full-Time,Hybrid,5,6,11,178866,2146392,485443,4,1,5,53,17,6,3,2,7.0,High,0.286,Yes
+MNC10200,Wipro,Data & AI,L3,QA Engineer,Kochi,Female,54,Bachelor's,Full-Time,Hybrid,3,0,16,180953,2171436,142003,1,3,4,15,48,8,3,1,52.5,High,0.1628,No
+MNC10201,Capgemini,Cloud & DevOps,L2,Cloud Engineer,Noida,Male,48,Bachelor's,Full-Time,Hybrid,9,1,11,247364,2968368,597457,1,1,2,29,81,7,1,1,31.0,Medium,0.1673,No
+MNC10202,Tech Mahindra,Cybersecurity,L4,Technical Lead,Hyderabad,Male,27,Master's,Full-Time,Hybrid,5,8,11,266770,3201240,260529,3,2,1,33,64,10,2,5,48.7,High,0.109,No
+MNC10203,Capgemini,Testing/QA,L2,Business Analyst,Gurugram,Male,24,Bachelor's,Full-Time,Hybrid,15,6,0,256024,3072288,443855,3,4,4,0,82,6,3,3,22.7,High,0.0036,No
+MNC10204,TCS,Testing/QA,L4,Technical Lead,Pune,Female,21,Bachelor's,Full-Time,Hybrid,6,6,12,210775,2529300,253608,5,2,3,23,53,9,2,3,8.4,High,0.0159,No
+MNC10205,Accenture,Cybersecurity,L2,Data Scientist,Noida,Female,21,Master's,Full-Time,Hybrid,8,5,13,121288,1455456,525332,5,2,5,23,60,9,0,4,3.4,Low,0.0119,No
+MNC10206,Cognizant,Product Management,L2,Data Scientist,Gurugram,Female,40,Master's,Full-Time,Hybrid,9,2,23,279836,3358032,177763,2,1,1,8,7,1,0,3,17.6,Low,0.1225,No
+MNC10207,Tech Mahindra,IT Support,L2,DevOps Engineer,Mumbai,Male,39,Bachelor's,Full-Time,Onsite,6,2,1,44390,532680,231807,2,3,4,21,2,1,0,4,15.4,Low,0.1207,No
+MNC10208,Accenture,Data & AI,L2,Software Developer,Mumbai,Female,49,Master's,Full-Time,Remote,5,1,11,248547,2982564,24363,1,5,1,11,24,1,0,5,34.1,Low,0.0541,No
+MNC10209,HCLTech,Testing/QA,L3,Cloud Engineer,Noida,Female,30,Master's,Full-Time,Onsite,0,5,20,57307,687684,308838,3,1,3,16,68,8,1,3,2.3,Medium,0.0184,No
+MNC10210,Cognizant,Cloud & DevOps,L2,Project Manager,Mumbai,Female,38,Master's,Full-Time,Hybrid,1,3,15,257436,3089232,394798,1,5,2,24,54,10,0,5,31.7,Low,0.0483,Yes
+MNC10211,Capgemini,Data & AI,L2,Business Analyst,Chennai,Female,48,Bachelor's,Contract,Hybrid,0,4,3,255121,3061452,336473,1,2,4,27,39,7,3,3,24.1,High,0.1562,No
+MNC10212,Capgemini,Cloud & DevOps,L4,Business Analyst,Bengaluru,Female,55,Bachelor's,Full-Time,Hybrid,8,2,7,281063,3372756,1620,3,5,1,60,82,3,0,3,35.1,Low,0.1277,No
+MNC10213,Cognizant,Product Management,L2,DevOps Engineer,Hyderabad,Male,51,Bachelor's,Full-Time,Onsite,9,5,1,54502,654024,324368,2,3,1,14,81,2,2,5,42.4,High,0.0232,No
+MNC10214,Capgemini,Software Engineering,L3,Data Scientist,Bengaluru,Male,47,Bachelor's,Full-Time,Hybrid,9,2,9,52486,629832,449871,3,1,1,29,49,4,3,1,38.4,High,0.1845,Yes
+MNC10215,Wipro,Data & AI,L4,DevOps Engineer,Gurugram,Male,31,Master's,Full-Time,Remote,8,7,8,199330,2391960,95419,4,3,2,50,94,3,2,1,59.1,High,0.1852,Yes
+MNC10216,Cognizant,Testing/QA,L3,QA Engineer,Hyderabad,Male,25,Bachelor's,Full-Time,Hybrid,6,8,22,218788,2625456,496712,4,3,1,26,32,7,2,1,9.2,High,0.0475,No
+MNC10217,Accenture,Data & AI,L1,Cloud Engineer,Kochi,Female,28,Master's,Full-Time,Hybrid,15,3,14,258300,3099600,180324,4,1,5,21,17,10,1,1,26.4,Medium,0.1771,No
+MNC10218,Cognizant,Data & AI,L4,Software Developer,Hyderabad,Female,54,Bachelor's,Full-Time,Hybrid,12,8,12,133920,1607040,317953,5,3,5,9,56,8,1,3,26.1,Medium,0.0106,No
+MNC10219,Tech Mahindra,Data & AI,L3,IT Support Engineer,Bengaluru,Male,32,Bachelor's,Full-Time,Onsite,1,6,22,242566,2910792,546547,2,4,1,60,15,6,2,2,25.6,High,0.5227,Yes
+MNC10220,Capgemini,IT Support,L2,Cybersecurity Analyst,Noida,Male,21,Master's,Full-Time,Hybrid,5,2,16,92785,1113420,20655,2,4,5,57,79,3,2,5,40.2,High,0.1439,Yes
+MNC10221,Wipro,Data & AI,L1,Cybersecurity Analyst,Hyderabad,Female,51,Bachelor's,Full-Time,Hybrid,10,6,15,106050,1272600,450400,5,4,4,30,37,6,0,2,29.9,Low,0.0661,No
+MNC10222,Wipro,Cloud & DevOps,L4,DevOps Engineer,Kochi,Male,24,Bachelor's,Full-Time,Hybrid,3,0,1,52738,632856,21602,1,5,5,26,40,2,3,2,31.5,High,0.0873,No
+MNC10223,HCLTech,Software Engineering,L3,QA Engineer,Kochi,Male,25,Master's,Full-Time,Hybrid,0,2,19,104231,1250772,342962,4,3,1,11,6,7,0,4,26.5,Low,0.0499,No
+MNC10224,Accenture,Product Management,L3,Cloud Engineer,Kochi,Male,50,Bachelor's,Full-Time,Onsite,0,5,19,103606,1243272,525825,4,1,3,45,77,10,1,1,59.5,Medium,0.3549,No
+MNC10225,Infosys,Cybersecurity,L4,Project Manager,Bengaluru,Male,44,Master's,Full-Time,Hybrid,11,3,13,333806,4005672,410354,1,1,4,30,52,7,1,3,55.7,Medium,0.4206,Yes
+MNC10226,Infosys,Data & AI,L3,Cybersecurity Analyst,Hyderabad,Male,23,Master's,Full-Time,Onsite,4,6,2,257369,3088428,171236,3,5,2,31,62,4,0,1,19.2,Low,0.0418,No
+MNC10227,Cognizant,Testing/QA,L1,Cloud Engineer,Pune,Male,31,Bachelor's,Full-Time,Hybrid,11,2,22,307267,3687204,89743,3,1,1,31,88,8,3,1,7.6,High,0.0353,No
+MNC10228,HCLTech,Data & AI,L2,Software Developer,Noida,Male,24,Master's,Full-Time,Hybrid,1,0,11,186688,2240256,447875,2,4,2,40,31,4,2,2,50.5,High,0.3504,Yes
+MNC10229,TCS,Testing/QA,L2,Technical Lead,Chennai,Female,46,Bachelor's,Full-Time,Hybrid,3,8,7,303326,3639912,86155,5,3,3,58,37,7,0,4,59.8,Low,0.4398,No
+MNC10230,Cognizant,Cloud & DevOps,L3,QA Engineer,Hyderabad,Male,47,Bachelor's,Full-Time,Remote,0,5,1,192403,2308836,89846,2,1,2,44,21,4,1,1,18.3,Medium,0.5014,Yes
+MNC10231,HCLTech,Testing/QA,L1,Data Scientist,Kochi,Female,47,Bachelor's,Full-Time,Hybrid,3,7,3,207170,2486040,292706,3,1,1,34,15,5,3,5,22.1,High,0.1898,No
+MNC10232,Accenture,Cybersecurity,L3,Cloud Engineer,Pune,Male,26,Bachelor's,Full-Time,Onsite,10,2,13,56128,673536,239647,1,2,1,52,51,7,1,5,56.6,Medium,0.571,Yes
+MNC10233,Accenture,Software Engineering,L3,Software Developer,Chennai,Male,35,Master's,Full-Time,Remote,5,7,15,61556,738672,330825,2,2,3,60,28,10,3,1,43.0,High,0.7379,Yes
+MNC10234,Accenture,Testing/QA,L4,Project Manager,Chennai,Female,50,Bachelor's,Full-Time,Hybrid,9,1,18,288470,3461640,289962,4,2,1,45,15,3,3,2,18.4,High,0.2165,No
+MNC10235,Accenture,Testing/QA,L2,IT Support Engineer,Gurugram,Male,55,Bachelor's,Contract,Onsite,3,3,1,182948,2195376,319849,4,3,3,20,75,10,3,2,35.3,High,0.023,No
+MNC10236,Accenture,Software Engineering,L4,Data Scientist,Hyderabad,Male,43,Bachelor's,Full-Time,Hybrid,0,2,11,170021,2040252,544392,1,4,3,9,16,5,0,3,56.7,Low,0.2107,No
+MNC10237,HCLTech,Cybersecurity,L1,IT Support Engineer,Bengaluru,Female,26,Master's,Full-Time,Hybrid,6,0,13,81962,983544,386480,3,4,1,15,100,3,0,4,48.9,Low,0.0159,No
+MNC10238,HCLTech,Data & AI,L4,Project Manager,Hyderabad,Female,24,Bachelor's,Contract,Hybrid,13,6,5,120054,1440648,424632,4,4,5,6,63,5,0,2,44.8,Low,0.023,No
+MNC10239,Wipro,Testing/QA,L1,Software Developer,Pune,Male,38,Bachelor's,Full-Time,Hybrid,1,1,12,232278,2787336,173084,4,3,3,3,90,3,3,3,44.5,High,0.0073,No
+MNC10240,Tech Mahindra,Software Engineering,L2,Cybersecurity Analyst,Chennai,Male,29,Master's,Full-Time,Hybrid,8,3,3,54099,649188,524156,5,3,1,26,88,10,3,5,11.5,High,0.0037,No
+MNC10241,Infosys,Cloud & DevOps,L4,IT Support Engineer,Hyderabad,Female,49,Bachelor's,Full-Time,Hybrid,12,8,21,265943,3191316,461261,2,2,5,51,12,7,1,5,49.7,Medium,0.667,Yes
+MNC10242,Capgemini,Software Engineering,L1,Data Scientist,Bengaluru,Male,33,Bachelor's,Full-Time,Remote,2,5,17,213683,2564196,310414,3,1,3,54,71,1,2,5,17.3,High,0.1419,No
+MNC10243,Accenture,Cloud & DevOps,L2,DevOps Engineer,Gurugram,Female,37,Bachelor's,Full-Time,Hybrid,7,7,11,199957,2399484,203141,2,5,5,24,55,9,0,1,55.9,Low,0.1534,No
+MNC10244,TCS,Cybersecurity,L3,Business Analyst,Hyderabad,Female,52,Bachelor's,Full-Time,Remote,12,1,19,345288,4143456,443049,3,5,4,30,4,9,3,4,22.5,High,0.069,No
+MNC10245,Capgemini,Data & AI,L3,Cloud Engineer,Noida,Other,42,Master's,Full-Time,Hybrid,7,6,21,226292,2715504,194716,4,1,4,10,11,5,1,3,51.6,Medium,0.1811,No
+MNC10246,HCLTech,Software Engineering,L3,Cybersecurity Analyst,Gurugram,Male,24,Bachelor's,Contract,Hybrid,2,5,20,37837,454044,331612,5,2,5,47,40,9,1,4,16.7,Medium,0.1062,No
+MNC10247,TCS,Product Management,L3,IT Support Engineer,Bengaluru,Female,25,Bachelor's,Full-Time,Hybrid,3,8,18,210427,2525124,190545,2,1,3,19,2,10,1,1,31.4,Medium,0.3927,Yes
+MNC10248,TCS,Product Management,L3,Technical Lead,Pune,Male,33,Bachelor's,Full-Time,Hybrid,1,6,7,208371,2500452,431544,4,1,1,35,98,6,0,3,7.3,Low,0.0232,No
+MNC10249,TCS,IT Support,L2,Cloud Engineer,Chennai,Male,54,Master's,Full-Time,Hybrid,3,0,6,278003,3336036,430000,3,5,2,53,32,5,0,3,39.9,Low,0.2914,No
+MNC10250,Wipro,Testing/QA,L2,DevOps Engineer,Hyderabad,Male,42,Master's,Full-Time,Hybrid,10,7,15,132413,1588956,23723,2,2,1,53,85,3,2,2,50.3,High,0.359,Yes
+MNC10251,HCLTech,Cybersecurity,L1,Project Manager,Bengaluru,Female,43,Bachelor's,Full-Time,Hybrid,10,2,18,81012,972144,524362,2,3,2,54,49,8,1,4,43.4,Medium,0.4095,No
+MNC10252,TCS,Software Engineering,L4,Business Analyst,Gurugram,Male,23,Master's,Full-Time,Remote,10,1,5,160193,1922316,288642,4,5,2,16,55,4,0,4,31.9,Low,0.0133,No
+MNC10253,Accenture,Product Management,L3,Software Developer,Noida,Male,54,Master's,Full-Time,Hybrid,15,2,19,248168,2978016,413757,2,3,3,44,8,10,1,2,3.7,Medium,0.2611,Yes
+MNC10254,Cognizant,Testing/QA,L2,DevOps Engineer,Bengaluru,Male,52,Master's,Full-Time,Hybrid,13,5,20,178178,2138136,570217,5,2,5,10,81,3,3,5,56.1,High,0.0127,No
+MNC10255,TCS,Product Management,L2,DevOps Engineer,Mumbai,Female,41,Master's,Full-Time,Onsite,8,2,10,88123,1057476,123199,5,1,1,29,49,6,1,1,42.6,Medium,0.142,No
+MNC10256,Wipro,Software Engineering,L5,Project Manager,Kochi,Female,41,Bachelor's,Full-Time,Hybrid,1,4,4,141825,1701900,231525,4,4,5,34,28,8,2,4,45.0,High,0.1067,No
+MNC10257,Capgemini,Cloud & DevOps,L1,QA Engineer,Noida,Female,31,Bachelor's,Full-Time,Hybrid,11,5,15,38720,464640,288172,3,4,4,40,38,9,0,2,47.9,Low,0.3114,No
+MNC10258,HCLTech,Software Engineering,L3,Project Manager,Gurugram,Male,24,Bachelor's,Full-Time,Hybrid,11,7,6,198733,2384796,29545,4,2,3,37,90,6,3,3,45.1,High,0.0592,Yes
+MNC10259,Tech Mahindra,IT Support,L2,QA Engineer,Pune,Male,21,Bachelor's,Full-Time,Hybrid,12,6,4,276103,3313236,31673,5,4,3,21,99,5,0,2,27.0,Low,0.0073,No
+MNC10260,Wipro,Software Engineering,L3,QA Engineer,Chennai,Female,48,PhD,Full-Time,Remote,15,7,10,254970,3059640,424190,1,3,4,52,44,2,3,5,44.3,High,0.3942,No
+MNC10261,TCS,Software Engineering,L1,Cybersecurity Analyst,Gurugram,Male,44,Bachelor's,Contract,Onsite,2,2,14,254866,3058392,452115,1,4,1,42,16,2,1,1,37.9,Medium,0.5785,Yes
+MNC10262,HCLTech,IT Support,L4,Cybersecurity Analyst,Kochi,Male,55,Bachelor's,Full-Time,Hybrid,14,3,2,180862,2170344,416313,2,2,4,47,55,9,1,5,51.4,Medium,0.3496,No
+MNC10263,Cognizant,Cybersecurity,L4,Data Scientist,Pune,Female,33,Master's,Full-Time,Hybrid,10,5,4,88655,1063860,355288,2,2,1,50,97,2,2,3,48.3,High,0.2151,No
+MNC10264,TCS,Software Engineering,L3,IT Support Engineer,Hyderabad,Other,54,Bachelor's,Full-Time,Hybrid,10,6,22,220715,2648580,326968,1,3,2,26,45,2,2,3,3.4,High,0.0554,No
+MNC10265,Wipro,IT Support,L3,IT Support Engineer,Bengaluru,Female,31,Bachelor's,Full-Time,Onsite,14,8,20,123448,1481376,23525,5,4,3,36,66,3,3,3,23.4,High,0.0192,No
+MNC10266,Infosys,Testing/QA,L4,Software Developer,Mumbai,Female,37,Bachelor's,Full-Time,Onsite,3,0,4,208446,2501352,582092,2,4,1,45,68,3,2,3,3.0,High,0.0427,No
+MNC10267,Accenture,Cloud & DevOps,L3,IT Support Engineer,Noida,Female,55,Bachelor's,Full-Time,Remote,4,7,8,203979,2447748,146115,4,1,5,48,13,4,2,2,7.0,High,0.2749,Yes
+MNC10268,Tech Mahindra,Cloud & DevOps,L1,Cybersecurity Analyst,Noida,Male,38,Master's,Full-Time,Hybrid,0,7,14,211143,2533716,566134,4,5,5,34,66,7,2,3,36.5,High,0.0358,No
+MNC10269,Capgemini,Software Engineering,L3,Data Scientist,Bengaluru,Female,42,Bachelor's,Full-Time,Hybrid,6,5,2,150507,1806084,77261,5,2,3,3,22,9,2,3,52.6,High,0.052,No
+MNC10270,Wipro,Cybersecurity,L3,Data Scientist,Mumbai,Female,44,Bachelor's,Full-Time,Remote,15,3,5,326956,3923472,500827,2,1,4,15,93,2,1,2,8.1,Medium,0.0179,No
+MNC10271,HCLTech,Cybersecurity,L2,QA Engineer,Bengaluru,Male,39,Bachelor's,Full-Time,Hybrid,13,2,16,341714,4100568,184100,4,2,4,15,60,4,2,3,27.6,High,0.0219,No
+MNC10272,Tech Mahindra,Testing/QA,L3,Project Manager,Hyderabad,Female,41,Bachelor's,Full-Time,Onsite,9,2,20,343045,4116540,7265,2,1,1,20,22,9,1,5,54.7,Medium,0.2962,Yes
+MNC10273,Tech Mahindra,Software Engineering,L4,Software Developer,Kochi,Female,28,Master's,Full-Time,Hybrid,15,5,7,90186,1082232,206724,2,5,4,25,26,2,1,5,49.0,Medium,0.1182,Yes
+MNC10274,Tech Mahindra,Cloud & DevOps,L4,QA Engineer,Pune,Female,48,Bachelor's,Full-Time,Hybrid,6,7,20,152066,1824792,15733,4,1,3,56,53,10,0,4,31.7,Low,0.3131,Yes
+MNC10275,TCS,Cybersecurity,L2,Project Manager,Gurugram,Female,25,Bachelor's,Full-Time,Hybrid,8,6,24,211323,2535876,299564,1,2,1,35,9,1,1,5,46.5,Medium,0.5318,No
+MNC10276,Accenture,Software Engineering,L1,IT Support Engineer,Noida,Female,37,Master's,Full-Time,Hybrid,3,0,10,226243,2714916,458365,4,4,2,18,88,10,1,1,31.8,Medium,0.015,No
+MNC10277,TCS,Product Management,L5,QA Engineer,Hyderabad,Female,39,Master's,Full-Time,Hybrid,13,5,5,66160,793920,21058,5,2,4,57,76,8,2,1,10.3,High,0.0828,No
+MNC10278,HCLTech,Cybersecurity,L4,Cloud Engineer,Pune,Male,47,Bachelor's,Full-Time,Hybrid,13,6,7,49156,589872,246301,3,3,4,16,15,9,1,1,8.4,Medium,0.0641,No
+MNC10279,TCS,IT Support,L1,IT Support Engineer,Hyderabad,Female,54,Bachelor's,Full-Time,Hybrid,5,6,9,106208,1274496,297073,4,3,1,44,40,7,3,2,12.1,High,0.0922,No
+MNC10280,Infosys,Product Management,L4,Project Manager,Mumbai,Male,31,Master's,Full-Time,Onsite,10,8,23,179001,2148012,162434,2,3,5,25,97,8,2,5,21.7,High,0.0139,No
+MNC10281,Accenture,Cybersecurity,L4,Software Developer,Noida,Male,32,Master's,Full-Time,Onsite,1,4,2,261226,3134712,77597,2,3,4,21,54,4,2,1,55.9,High,0.1724,No
+MNC10282,Accenture,Cloud & DevOps,L2,Project Manager,Gurugram,Male,41,Bachelor's,Contract,Hybrid,11,0,22,271766,3261192,78209,4,5,3,54,100,4,2,4,48.2,High,0.0525,Yes
+MNC10283,HCLTech,Data & AI,L3,QA Engineer,Bengaluru,Male,31,PhD,Full-Time,Onsite,11,1,13,225413,2704956,192941,3,4,4,57,60,2,0,2,26.5,Low,0.2046,No
+MNC10284,Capgemini,Product Management,L2,QA Engineer,Bengaluru,Male,48,Bachelor's,Contract,Hybrid,13,3,22,335007,4020084,148620,4,4,2,55,85,8,2,4,30.1,High,0.0575,No
+MNC10285,Infosys,Testing/QA,L1,DevOps Engineer,Pune,Female,25,Bachelor's,Full-Time,Hybrid,3,4,13,242909,2914908,408294,3,2,4,27,80,2,1,5,16.7,Medium,0.0221,No
+MNC10286,Wipro,Testing/QA,L2,Software Developer,Gurugram,Female,37,Bachelor's,Full-Time,Remote,1,8,9,95439,1145268,398635,3,1,5,0,86,9,3,3,42.6,High,0.0157,No
+MNC10287,TCS,Cloud & DevOps,L4,Technical Lead,Kochi,Female,40,Bachelor's,Full-Time,Hybrid,9,0,11,168266,2019192,166562,5,2,4,43,99,4,2,4,48.4,High,0.0458,No
+MNC10288,Cognizant,Cybersecurity,L1,IT Support Engineer,Chennai,Male,32,Master's,Full-Time,Hybrid,4,2,5,232459,2789508,207158,2,2,1,35,48,1,2,3,15.1,High,0.1175,No
+MNC10289,TCS,Software Engineering,L2,Data Scientist,Mumbai,Female,26,Bachelor's,Contract,Hybrid,14,4,11,151361,1816332,1468,2,2,4,42,72,4,3,2,3.5,High,0.0706,No
+MNC10290,Tech Mahindra,Cybersecurity,L2,Software Developer,Pune,Female,37,Bachelor's,Full-Time,Hybrid,6,2,22,242986,2915832,286453,3,2,5,36,51,3,2,4,37.8,High,0.131,No
+MNC10291,TCS,Cloud & DevOps,L3,Data Scientist,Chennai,Female,39,Master's,Full-Time,Onsite,12,3,13,227286,2727432,72255,2,4,1,1,1,6,0,4,34.2,Low,0.0628,No
+MNC10292,Wipro,Testing/QA,L4,Software Developer,Hyderabad,Male,46,Bachelor's,Full-Time,Remote,0,2,1,59777,717324,553006,1,1,3,16,95,7,1,2,24.7,Medium,0.0443,No
+MNC10293,TCS,Cybersecurity,L2,Software Developer,Mumbai,Male,52,Bachelor's,Contract,Hybrid,14,3,8,286427,3437124,225409,3,2,1,39,49,8,3,2,39.0,High,0.2184,Yes
+MNC10294,Infosys,Testing/QA,L2,Project Manager,Hyderabad,Male,26,Bachelor's,Full-Time,Hybrid,9,0,9,187255,2247060,239967,2,4,2,37,85,2,3,1,33.5,High,0.0649,No
+MNC10295,Infosys,Product Management,L3,Software Developer,Kochi,Male,31,Bachelor's,Full-Time,Onsite,9,7,16,228110,2737320,368697,1,2,1,20,42,6,0,5,15.8,Low,0.0775,No
+MNC10296,Accenture,Software Engineering,L2,DevOps Engineer,Gurugram,Male,53,Bachelor's,Full-Time,Remote,6,3,16,211649,2539788,375595,5,3,3,60,76,6,1,4,24.5,Medium,0.0729,No
+MNC10297,HCLTech,Product Management,L2,Technical Lead,Noida,Female,44,Master's,Full-Time,Hybrid,9,6,2,308011,3696132,247113,2,2,4,8,7,10,0,4,26.3,Low,0.1126,No
+MNC10298,Capgemini,Testing/QA,L2,QA Engineer,Mumbai,Male,43,Bachelor's,Full-Time,Remote,12,1,18,92501,1110012,397111,1,2,1,12,58,5,1,2,52.9,Medium,0.1573,No
+MNC10299,Cognizant,Testing/QA,L1,Business Analyst,Chennai,Male,35,Bachelor's,Full-Time,Hybrid,5,1,0,175338,2104056,582314,4,5,1,10,64,10,0,2,57.7,Low,0.0299,No
+MNC10300,Tech Mahindra,Data & AI,L1,Data Scientist,Kochi,Male,47,Master's,Full-Time,Hybrid,5,5,11,331566,3978792,567256,4,3,1,60,80,10,2,5,53.7,High,0.2025,No
+MNC10301,TCS,Data & AI,L2,QA Engineer,Noida,Male,31,Master's,Full-Time,Hybrid,11,1,6,196280,2355360,408548,1,1,1,15,11,7,0,2,43.4,Low,0.4376,No
+MNC10302,TCS,Product Management,L2,Business Analyst,Bengaluru,Male,37,Bachelor's,Full-Time,Hybrid,7,5,3,151544,1818528,145693,3,2,3,15,3,3,3,3,35.5,High,0.1434,No
+MNC10303,Wipro,IT Support,L4,Technical Lead,Chennai,Male,34,Bachelor's,Contract,Hybrid,7,1,9,168439,2021268,542462,3,1,5,58,76,4,3,3,41.7,High,0.3339,Yes
+MNC10304,HCLTech,Product Management,L2,Technical Lead,Pune,Male,47,Bachelor's,Full-Time,Hybrid,5,3,12,285230,3422760,564790,2,3,5,1,94,10,3,3,56.4,High,0.0158,No
+MNC10305,Infosys,Data & AI,L3,Data Scientist,Bengaluru,Female,38,Bachelor's,Full-Time,Onsite,2,6,1,65362,784344,298818,4,2,1,41,40,9,0,3,15.7,Low,0.1229,No
+MNC10306,Cognizant,Testing/QA,L3,Data Scientist,Kochi,Female,48,Bachelor's,Full-Time,Onsite,4,7,9,280449,3365388,561548,3,5,3,43,6,4,3,5,32.6,High,0.1566,No
+MNC10307,Accenture,Cloud & DevOps,L1,Technical Lead,Bengaluru,Male,24,Bachelor's,Full-Time,Hybrid,1,2,20,343732,4124784,596093,3,4,3,7,86,3,3,4,41.7,High,0.008,No
+MNC10308,Infosys,Product Management,L3,Business Analyst,Pune,Male,27,Master's,Full-Time,Hybrid,14,8,21,199357,2392284,195991,4,5,1,42,87,2,2,3,41.1,High,0.0343,No
+MNC10309,Tech Mahindra,Testing/QA,L1,Software Developer,Mumbai,Female,55,Bachelor's,Full-Time,Hybrid,13,1,24,156683,1880196,185541,5,5,2,41,68,5,2,2,15.9,High,0.0193,No
+MNC10310,HCLTech,Cloud & DevOps,L5,IT Support Engineer,Bengaluru,Male,29,Master's,Full-Time,Onsite,4,7,3,286157,3433884,17194,3,4,1,12,68,4,1,3,35.6,Medium,0.0192,No
+MNC10311,Tech Mahindra,Cloud & DevOps,L1,Cloud Engineer,Gurugram,Male,28,Bachelor's,Full-Time,Hybrid,13,7,17,235827,2829924,518953,1,4,2,56,80,8,1,5,48.0,Medium,0.285,No
+MNC10312,Capgemini,Data & AI,L2,QA Engineer,Chennai,Female,37,Master's,Full-Time,Onsite,8,3,4,232918,2795016,568011,2,4,1,16,29,7,1,2,29.0,Medium,0.0745,No
+MNC10313,Accenture,Product Management,L1,Project Manager,Noida,Male,37,Master's,Contract,Onsite,9,0,18,328451,3941412,231408,3,2,2,38,72,6,0,3,47.8,Low,0.2147,No
+MNC10314,Capgemini,Cybersecurity,L5,QA Engineer,Bengaluru,Female,53,Master's,Full-Time,Hybrid,0,0,1,348667,4184004,468451,3,1,2,23,5,2,1,4,22.2,Medium,0.1704,No
+MNC10315,Wipro,Software Engineering,L2,Project Manager,Chennai,Female,52,Bachelor's,Full-Time,Onsite,9,1,11,245757,2949084,242113,5,1,1,2,88,3,0,2,56.4,Low,0.0211,No
+MNC10316,Tech Mahindra,Data & AI,L3,Business Analyst,Hyderabad,Male,28,Bachelor's,Full-Time,Hybrid,4,8,16,137669,1652028,76298,1,4,2,29,18,10,0,2,32.5,Low,0.2979,Yes
+MNC10317,Wipro,Data & AI,L1,Project Manager,Chennai,Male,39,Bachelor's,Full-Time,Hybrid,11,1,9,238030,2856360,583526,2,5,4,51,79,9,1,4,36.2,Medium,0.1059,No
+MNC10318,TCS,Cybersecurity,L3,Data Scientist,Noida,Female,23,Master's,Full-Time,Hybrid,5,1,1,188998,2267976,259425,3,3,5,12,84,9,1,2,2.9,Medium,0.0062,No
+MNC10319,Capgemini,Software Engineering,L2,IT Support Engineer,Chennai,Male,25,Bachelor's,Full-Time,Onsite,13,5,5,133215,1598580,510609,2,4,3,18,65,5,0,3,11.0,Low,0.0195,No
+MNC10320,HCLTech,Testing/QA,L4,IT Support Engineer,Pune,Male,33,Bachelor's,Full-Time,Onsite,10,6,7,128707,1544484,107092,4,5,2,6,9,3,2,2,38.3,High,0.0361,No
+MNC10321,Tech Mahindra,IT Support,L2,Data Scientist,Kochi,Female,51,Bachelor's,Full-Time,Onsite,6,6,18,122837,1474044,264291,3,5,2,8,15,2,3,3,25.8,High,0.0238,No
+MNC10322,Cognizant,Product Management,L1,DevOps Engineer,Noida,Female,36,Bachelor's,Full-Time,Onsite,8,8,10,275847,3310164,229991,3,2,3,18,36,8,3,4,31.0,High,0.0651,No
+MNC10323,Accenture,IT Support,L1,Business Analyst,Kochi,Male,52,Bachelor's,Full-Time,Hybrid,5,5,24,257544,3090528,300589,4,2,2,44,78,6,3,1,4.7,High,0.0467,No
+MNC10324,Infosys,Testing/QA,L2,DevOps Engineer,Mumbai,Female,42,Bachelor's,Full-Time,Hybrid,4,7,11,297614,3571368,192180,5,1,3,53,76,10,2,4,50.2,High,0.1872,No
+MNC10325,HCLTech,Data & AI,L3,DevOps Engineer,Kochi,Male,49,Master's,Full-Time,Hybrid,11,5,8,257467,3089604,347761,3,1,1,39,76,7,0,3,47.3,Low,0.228,No
+MNC10326,HCLTech,Software Engineering,L1,QA Engineer,Hyderabad,Female,42,Master's,Full-Time,Hybrid,6,1,1,176025,2112300,213482,2,3,4,21,31,1,1,5,11.9,Medium,0.0468,No
+MNC10327,Wipro,Data & AI,L3,Technical Lead,Pune,Female,23,Master's,Full-Time,Hybrid,12,0,7,265652,3187824,599649,1,3,4,17,46,1,0,4,38.4,Low,0.1042,No
+MNC10328,Capgemini,Cloud & DevOps,L2,QA Engineer,Mumbai,Female,30,Bachelor's,Full-Time,Remote,0,4,10,121493,1457916,428910,2,3,5,60,71,10,0,5,49.3,Low,0.3637,No
+MNC10329,Tech Mahindra,Data & AI,L3,Technical Lead,Chennai,Male,41,Master's,Full-Time,Hybrid,10,8,20,298667,3584004,124232,5,3,2,22,42,2,1,5,38.8,Medium,0.0329,No
+MNC10330,Tech Mahindra,Data & AI,L2,Cloud Engineer,Noida,Female,36,Master's,Full-Time,Hybrid,13,7,3,247995,2975940,81171,1,5,5,1,81,10,2,3,19.3,High,0.0057,No
+MNC10331,TCS,Testing/QA,L2,Project Manager,Hyderabad,Male,32,Master's,Contract,Hybrid,4,3,9,218262,2619144,376295,2,5,1,49,35,3,3,3,39.7,High,0.2534,No
+MNC10332,TCS,Testing/QA,L3,Technical Lead,Pune,Female,22,Master's,Full-Time,Hybrid,14,4,20,323313,3879756,86296,2,1,4,49,25,1,3,1,13.4,High,0.4229,No
+MNC10333,Accenture,Testing/QA,L1,Data Scientist,Mumbai,Male,44,Bachelor's,Full-Time,Hybrid,1,4,19,75641,907692,140562,4,2,1,10,9,5,0,2,19.8,Low,0.0736,No
+MNC10334,Wipro,IT Support,L1,QA Engineer,Mumbai,Male,55,Master's,Full-Time,Hybrid,3,5,15,184062,2208744,152324,5,2,1,30,30,3,2,4,15.2,High,0.048,No
+MNC10335,HCLTech,Cloud & DevOps,L4,Business Analyst,Hyderabad,Male,50,Bachelor's,Full-Time,Hybrid,6,2,7,59661,715932,498506,4,4,2,32,96,1,3,3,33.9,High,0.0139,No
+MNC10336,Tech Mahindra,Testing/QA,L5,Project Manager,Gurugram,Female,50,Bachelor's,Full-Time,Hybrid,4,4,3,174491,2093892,241535,1,5,1,13,28,8,2,4,7.4,High,0.0209,No
+MNC10337,Cognizant,Software Engineering,L2,Cloud Engineer,Chennai,Female,55,Bachelor's,Full-Time,Remote,11,1,9,306601,3679212,332103,4,3,4,15,4,6,1,5,56.1,Medium,0.1255,No
+MNC10338,Wipro,IT Support,L2,Technical Lead,Hyderabad,Male,39,Master's,Full-Time,Hybrid,5,0,11,133619,1603428,403666,5,3,5,10,76,9,0,2,20.7,Low,0.0071,No
+MNC10339,Accenture,Cybersecurity,L3,Cloud Engineer,Mumbai,Male,28,Master's,Full-Time,Hybrid,1,0,13,63085,757020,318166,3,4,4,32,0,3,0,1,13.9,Low,0.1834,No
+MNC10340,Accenture,Software Engineering,L2,Business Analyst,Bengaluru,Female,46,PhD,Full-Time,Hybrid,2,6,15,127064,1524768,171999,3,2,2,6,86,9,2,4,30.3,High,0.01,No
+MNC10341,Wipro,Product Management,L1,DevOps Engineer,Pune,Male,27,Master's,Full-Time,Hybrid,6,1,21,211726,2540712,311997,1,3,4,30,2,9,3,2,17.3,High,0.278,Yes
+MNC10342,Accenture,Product Management,L1,IT Support Engineer,Hyderabad,Male,50,Bachelor's,Contract,Onsite,10,3,17,135723,1628676,31826,3,2,3,60,66,1,2,1,32.6,High,0.4136,Yes
+MNC10343,Wipro,Software Engineering,L3,Business Analyst,Gurugram,Female,27,Bachelor's,Full-Time,Onsite,1,4,20,163114,1957368,596649,4,4,5,47,70,3,1,4,21.6,Medium,0.0407,No
+MNC10344,Infosys,Testing/QA,L3,Cybersecurity Analyst,Mumbai,Female,23,Bachelor's,Full-Time,Hybrid,11,6,21,335126,4021512,240028,1,2,3,45,99,6,3,2,8.8,High,0.0697,No
+MNC10345,Wipro,Cybersecurity,L1,Business Analyst,Chennai,Other,21,Bachelor's,Full-Time,Hybrid,5,1,20,63477,761724,340134,5,2,3,46,34,8,3,3,16.7,High,0.102,No
+MNC10346,Capgemini,Cybersecurity,L2,Cloud Engineer,Kochi,Male,45,Bachelor's,Full-Time,Hybrid,4,5,11,144161,1729932,351931,1,2,2,13,14,4,2,4,26.9,High,0.1378,No
+MNC10347,Wipro,IT Support,L2,Data Scientist,Mumbai,Male,21,Bachelor's,Full-Time,Hybrid,9,0,17,344853,4138236,217256,1,3,1,27,66,5,1,2,2.8,Medium,0.0428,No
+MNC10348,Accenture,Cybersecurity,L3,QA Engineer,Chennai,Female,35,Bachelor's,Full-Time,Hybrid,0,6,6,189788,2277456,40736,2,1,3,52,92,9,3,1,46.5,High,0.3584,No
+MNC10349,Tech Mahindra,Product Management,L1,Data Scientist,Hyderabad,Female,33,Master's,Full-Time,Remote,11,8,19,328162,3937944,286674,2,5,4,42,29,6,0,2,37.7,Low,0.3175,No
+MNC10350,Capgemini,Cloud & DevOps,L1,Cloud Engineer,Chennai,Female,28,Bachelor's,Full-Time,Hybrid,10,4,23,169133,2029596,209124,1,2,1,15,81,7,1,3,36.5,Medium,0.0617,No
+MNC10351,Accenture,Testing/QA,L4,QA Engineer,Noida,Female,25,Master's,Full-Time,Hybrid,14,4,22,169681,2036172,178130,3,2,4,18,74,7,3,4,33.2,High,0.0232,No
+MNC10352,TCS,Cybersecurity,L1,Cybersecurity Analyst,Noida,Male,29,Master's,Full-Time,Hybrid,9,3,6,327515,3930180,467310,2,2,4,16,42,4,2,4,35.8,High,0.0857,No
+MNC10353,TCS,IT Support,L3,IT Support Engineer,Noida,Female,21,Bachelor's,Full-Time,Onsite,10,2,8,271422,3257064,336399,5,1,1,58,59,4,3,4,56.1,High,0.3183,No
+MNC10354,Tech Mahindra,Product Management,L2,Project Manager,Gurugram,Male,55,Bachelor's,Full-Time,Onsite,3,8,0,300001,3600012,388742,4,4,1,25,39,4,0,3,1.5,Low,0.0195,No
+MNC10355,Tech Mahindra,Cloud & DevOps,L1,Cloud Engineer,Gurugram,Male,22,Bachelor's,Full-Time,Hybrid,10,4,5,172692,2072304,224793,2,3,4,5,64,5,1,1,3.8,Medium,0.0136,No
+MNC10356,Capgemini,Data & AI,L2,Technical Lead,Bengaluru,Female,43,Bachelor's,Full-Time,Remote,1,7,5,38177,458124,299531,1,1,2,42,28,5,3,4,12.3,High,0.2851,No
+MNC10357,Infosys,Data & AI,L3,Cloud Engineer,Gurugram,Male,29,Master's,Contract,Hybrid,3,8,21,281842,3382104,432859,3,2,5,48,73,8,0,1,10.9,Low,0.1489,Yes
+MNC10358,Tech Mahindra,Cloud & DevOps,L4,Cloud Engineer,Kochi,Male,54,Bachelor's,Full-Time,Onsite,0,4,11,119941,1439292,453572,4,1,5,8,91,9,3,2,11.7,High,0.0057,No
+MNC10359,TCS,Product Management,L4,QA Engineer,Hyderabad,Female,34,Bachelor's,Full-Time,Hybrid,1,8,21,288121,3457452,401072,2,1,2,49,94,2,3,1,40.6,High,0.2682,Yes
+MNC10360,Wipro,IT Support,L2,Software Developer,Mumbai,Male,24,Bachelor's,Full-Time,Onsite,12,1,11,41826,501912,431385,3,1,1,16,18,7,1,1,28.1,Medium,0.1756,No
+MNC10361,Accenture,Cloud & DevOps,L3,Business Analyst,Mumbai,Female,50,PhD,Contract,Onsite,7,8,9,174962,2099544,293132,3,4,4,30,2,1,2,4,59.5,High,0.3458,No
+MNC10362,TCS,Testing/QA,L2,Software Developer,Bengaluru,Male,51,Master's,Full-Time,Hybrid,5,3,22,156044,1872528,503195,3,5,5,11,35,1,2,5,14.4,High,0.0084,No
+MNC10363,TCS,Testing/QA,L2,Cybersecurity Analyst,Gurugram,Female,31,Master's,Full-Time,Hybrid,1,5,5,219103,2629236,338592,1,3,4,22,42,4,0,5,19.3,Low,0.0728,No
+MNC10364,Infosys,Data & AI,L4,Technical Lead,Kochi,Male,55,Bachelor's,Full-Time,Onsite,11,5,16,35495,425940,375574,5,4,2,53,14,10,0,3,59.1,Low,0.4784,Yes
+MNC10365,Capgemini,Cybersecurity,L1,IT Support Engineer,Chennai,Male,28,Master's,Full-Time,Onsite,14,5,18,58481,701772,460522,3,4,4,53,96,7,0,3,50.1,Low,0.1636,No
+MNC10366,Capgemini,IT Support,L1,DevOps Engineer,Bengaluru,Female,23,Master's,Full-Time,Remote,5,1,17,172339,2068068,274548,4,5,2,4,40,2,1,5,28.7,Medium,0.0075,No
+MNC10367,HCLTech,Data & AI,L2,Cybersecurity Analyst,Kochi,Female,34,Master's,Full-Time,Onsite,9,6,5,266774,3201288,402205,2,4,1,42,89,2,2,2,33.7,High,0.0783,No
+MNC10368,Infosys,Cybersecurity,L1,DevOps Engineer,Chennai,Male,33,PhD,Full-Time,Hybrid,8,5,23,167815,2013780,458521,4,1,2,35,79,1,0,4,50.7,Low,0.1412,No
+MNC10369,Wipro,Cybersecurity,L1,DevOps Engineer,Kochi,Male,52,Bachelor's,Full-Time,Hybrid,6,0,18,133475,1601700,429199,1,1,2,58,35,10,0,4,29.4,Low,0.6865,No
+MNC10370,Capgemini,Testing/QA,L3,IT Support Engineer,Chennai,Female,54,Master's,Full-Time,Onsite,8,1,9,209845,2518140,170534,1,2,5,35,96,2,3,2,13.2,High,0.0477,No
+MNC10371,Accenture,Product Management,L2,Data Scientist,Pune,Female,39,Master's,Full-Time,Onsite,4,6,23,349186,4190232,281504,4,4,4,2,83,7,3,2,49.9,High,0.0084,No
+MNC10372,Tech Mahindra,Software Engineering,L4,Software Developer,Kochi,Female,36,Bachelor's,Full-Time,Hybrid,6,0,7,79476,953712,419503,5,2,5,57,76,9,0,5,32.7,Low,0.1015,No
+MNC10373,Infosys,Product Management,L4,Cloud Engineer,Mumbai,Female,22,Bachelor's,Full-Time,Hybrid,10,0,20,253177,3038124,196544,1,3,3,23,32,6,3,3,10.0,High,0.0663,No
+MNC10374,Tech Mahindra,Software Engineering,L2,Project Manager,Noida,Male,37,PhD,Contract,Hybrid,15,0,23,320696,3848352,246512,1,1,2,54,4,10,3,2,30.8,High,0.8003,Yes
+MNC10375,TCS,Cloud & DevOps,L2,DevOps Engineer,Gurugram,Male,54,Bachelor's,Full-Time,Hybrid,14,7,5,226314,2715768,34160,4,3,3,56,100,2,3,3,25.4,High,0.0492,No
+MNC10376,Accenture,Testing/QA,L2,Technical Lead,Chennai,Female,36,Bachelor's,Full-Time,Remote,13,3,20,190020,2280240,268933,1,5,5,16,77,10,1,1,52.7,Medium,0.0653,No
+MNC10377,Accenture,Cybersecurity,L3,Cybersecurity Analyst,Pune,Male,22,PhD,Full-Time,Hybrid,6,3,24,237383,2848596,158253,5,1,4,38,90,10,0,4,8.4,Low,0.019,No
+MNC10378,TCS,IT Support,L2,Data Scientist,Kochi,Male,22,Bachelor's,Full-Time,Hybrid,11,1,6,99093,1189116,65641,5,3,5,25,86,9,0,5,52.6,Low,0.022,No
+MNC10379,Infosys,Software Engineering,L3,DevOps Engineer,Mumbai,Female,46,Bachelor's,Contract,Hybrid,15,0,23,99123,1189476,231322,5,5,4,3,13,7,3,4,31.2,High,0.0101,No
+MNC10380,TCS,Product Management,L2,Data Scientist,Noida,Female,33,Master's,Full-Time,Hybrid,11,8,0,46535,558420,267688,2,3,4,54,67,1,1,5,24.9,Medium,0.1566,No
+MNC10381,Tech Mahindra,Cybersecurity,L3,Data Scientist,Chennai,Female,51,Bachelor's,Full-Time,Hybrid,2,6,17,76562,918744,406491,5,5,1,44,82,9,3,1,10.6,High,0.0137,No
+MNC10382,HCLTech,Software Engineering,L2,DevOps Engineer,Kochi,Female,54,Bachelor's,Full-Time,Hybrid,6,3,23,286323,3435876,587536,5,5,2,11,46,2,1,4,42.3,Medium,0.0114,No
+MNC10383,Accenture,Software Engineering,L2,QA Engineer,Kochi,Female,23,Bachelor's,Full-Time,Hybrid,0,5,24,288916,3466992,296694,2,1,5,0,53,4,0,1,55.7,Low,0.1436,No
+MNC10384,Cognizant,Software Engineering,L5,Business Analyst,Chennai,Male,28,Master's,Full-Time,Onsite,8,1,19,219607,2635284,412857,3,2,4,20,3,9,3,5,23.1,High,0.0842,No
+MNC10385,Cognizant,IT Support,L3,Technical Lead,Bengaluru,Male,43,Bachelor's,Full-Time,Hybrid,9,6,11,260063,3120756,202821,1,5,5,18,93,4,0,2,15.3,Low,0.0142,No
+MNC10386,Tech Mahindra,Testing/QA,L1,Cloud Engineer,Bengaluru,Male,34,Master's,Full-Time,Hybrid,12,1,15,71269,855228,277749,5,5,5,20,82,3,1,4,33.7,Medium,0.0064,No
+MNC10387,Wipro,IT Support,L4,Cloud Engineer,Mumbai,Male,47,Master's,Full-Time,Onsite,5,7,9,110674,1328088,496389,1,1,4,51,94,1,2,1,48.0,High,0.4588,No
+MNC10388,Capgemini,Data & AI,L2,Technical Lead,Noida,Female,49,Bachelor's,Full-Time,Onsite,15,7,9,334606,4015272,50713,4,2,3,17,94,7,1,4,1.2,Medium,0.0043,No
+MNC10389,TCS,Cybersecurity,L4,QA Engineer,Chennai,Male,21,Master's,Full-Time,Hybrid,4,0,13,315291,3783492,413606,1,4,2,42,8,6,2,4,38.3,High,0.4087,Yes
+MNC10390,TCS,Testing/QA,L4,Cloud Engineer,Mumbai,Male,37,Bachelor's,Full-Time,Hybrid,6,7,24,107095,1285140,337547,2,4,2,51,52,10,0,4,36.2,Low,0.2539,No
+MNC10391,Wipro,Testing/QA,L2,Data Scientist,Mumbai,Male,50,Master's,Full-Time,Hybrid,4,1,19,274172,3290064,528269,1,2,1,2,76,4,0,3,19.8,Low,0.0199,Yes
+MNC10392,Wipro,Testing/QA,L1,IT Support Engineer,Hyderabad,Male,33,Bachelor's,Full-Time,Hybrid,9,5,9,230003,2760036,381382,1,3,1,60,77,6,3,1,27.6,High,0.3638,No
+MNC10393,Tech Mahindra,Product Management,L2,Cybersecurity Analyst,Kochi,Male,41,Master's,Full-Time,Hybrid,4,0,9,120925,1451100,95335,1,1,1,48,59,6,2,1,15.6,High,0.3387,Yes
+MNC10394,Tech Mahindra,Testing/QA,L3,Software Developer,Gurugram,Male,39,Bachelor's,Contract,Onsite,15,4,24,96381,1156572,107441,3,2,2,43,45,4,1,4,47.6,Medium,0.3156,No
+MNC10395,Wipro,IT Support,L3,Cloud Engineer,Kochi,Male,39,Bachelor's,Full-Time,Hybrid,10,6,10,129468,1553616,16984,3,4,3,31,53,6,0,2,38.4,Low,0.1076,No
+MNC10396,Accenture,Testing/QA,L2,Technical Lead,Bengaluru,Male,45,Master's,Full-Time,Hybrid,9,0,22,272330,3267960,415976,4,5,2,9,73,10,2,4,32.4,High,0.0047,No
+MNC10397,Tech Mahindra,Cloud & DevOps,L1,IT Support Engineer,Noida,Male,42,Bachelor's,Full-Time,Hybrid,10,1,1,43731,524772,49402,2,4,2,39,94,8,1,3,24.2,Medium,0.0428,No
+MNC10398,HCLTech,Cybersecurity,L4,DevOps Engineer,Kochi,Female,51,Bachelor's,Full-Time,Hybrid,6,6,24,81024,972288,91656,1,5,2,14,36,3,2,5,18.2,High,0.0238,No
+MNC10399,Tech Mahindra,Testing/QA,L5,Business Analyst,Chennai,Male,37,Bachelor's,Full-Time,Hybrid,9,5,19,146712,1760544,65614,1,1,2,4,22,4,1,3,49.5,Medium,0.2428,No
+MNC10400,TCS,Cybersecurity,L3,Technical Lead,Mumbai,Male,43,Master's,Full-Time,Onsite,14,2,7,131121,1573452,166963,1,5,3,3,26,10,1,2,27.6,Medium,0.0407,No
+MNC10401,Tech Mahindra,Cloud & DevOps,L1,Data Scientist,Chennai,Female,52,Master's,Full-Time,Hybrid,6,1,22,295976,3551712,353153,1,2,1,57,69,1,1,4,30.6,Medium,0.3778,Yes
+MNC10402,Accenture,Cloud & DevOps,L2,Business Analyst,Hyderabad,Male,30,Bachelor's,Contract,Onsite,12,3,6,62332,747984,433048,3,5,5,27,89,4,1,1,31.7,Medium,0.0248,No
+MNC10403,Wipro,Cybersecurity,L1,Cybersecurity Analyst,Noida,Female,30,Bachelor's,Full-Time,Remote,10,2,7,42467,509604,307980,4,3,1,52,65,10,2,4,27.5,High,0.0951,No
+MNC10404,TCS,Software Engineering,L4,Cybersecurity Analyst,Mumbai,Male,28,Bachelor's,Full-Time,Onsite,14,6,0,71025,852300,486134,5,2,1,51,60,10,2,2,16.1,High,0.0902,No
+MNC10405,Tech Mahindra,Data & AI,L1,QA Engineer,Chennai,Male,40,Master's,Full-Time,Onsite,2,7,20,174179,2090148,15791,2,1,5,50,76,9,3,1,8.1,High,0.18,No
+MNC10406,Accenture,Product Management,L3,Project Manager,Bengaluru,Female,52,Master's,Full-Time,Remote,2,1,1,107994,1295928,58047,1,2,2,52,50,8,2,3,6.8,High,0.2329,No
+MNC10407,HCLTech,Software Engineering,L2,QA Engineer,Gurugram,Male,34,Bachelor's,Full-Time,Remote,9,6,17,124202,1490424,494064,4,3,3,3,49,4,2,5,45.7,High,0.0158,No
+MNC10408,Tech Mahindra,Software Engineering,L3,IT Support Engineer,Hyderabad,Female,48,Bachelor's,Full-Time,Hybrid,11,7,14,73481,881772,234898,5,1,3,14,18,7,3,5,14.2,High,0.0236,No
+MNC10409,Accenture,IT Support,L3,Business Analyst,Noida,Male,44,Bachelor's,Contract,Onsite,12,5,0,105118,1261416,461122,4,4,1,16,0,10,2,4,4.3,High,0.0256,No
+MNC10410,HCLTech,Product Management,L4,Project Manager,Hyderabad,Female,35,Bachelor's,Full-Time,Onsite,14,5,4,153714,1844568,70246,3,3,5,43,39,3,1,3,48.1,Medium,0.3172,No
+MNC10411,Wipro,Product Management,L2,DevOps Engineer,Bengaluru,Male,42,Bachelor's,Full-Time,Hybrid,2,0,1,254699,3056388,196936,5,1,4,2,31,9,0,2,10.1,Low,0.0174,No
+MNC10412,Tech Mahindra,Software Engineering,L1,Data Scientist,Noida,Male,50,Bachelor's,Full-Time,Onsite,5,3,19,190185,2282220,234955,4,5,2,9,21,10,0,5,37.9,Low,0.0243,No
+MNC10413,HCLTech,Testing/QA,L1,Business Analyst,Hyderabad,Female,24,Master's,Full-Time,Onsite,11,0,2,114363,1372356,348292,3,2,1,46,92,4,3,3,21.0,High,0.0587,No
+MNC10414,TCS,IT Support,L4,QA Engineer,Pune,Male,33,Bachelor's,Full-Time,Hybrid,14,3,18,241027,2892324,570178,4,1,3,41,65,2,2,4,8.5,High,0.0455,No
+MNC10415,Wipro,IT Support,L4,Software Developer,Bengaluru,Male,43,Master's,Full-Time,Remote,5,1,17,303958,3647496,400010,4,2,5,55,39,10,2,1,25.5,High,0.3127,No
+MNC10416,TCS,Cloud & DevOps,L3,Project Manager,Bengaluru,Female,28,Bachelor's,Full-Time,Hybrid,12,4,21,302168,3626016,557176,5,5,5,22,37,5,3,4,1.9,High,0.005,No
+MNC10417,Cognizant,Product Management,L3,Project Manager,Bengaluru,Female,38,Master's,Full-Time,Hybrid,12,8,17,224360,2692320,137821,3,1,1,17,47,2,0,4,50.6,Low,0.1457,No
+MNC10418,Infosys,Software Engineering,L3,Data Scientist,Pune,Male,32,Master's,Full-Time,Hybrid,2,2,13,87836,1054032,570819,1,4,4,0,54,10,1,3,31.3,Medium,0.0224,No
+MNC10419,Tech Mahindra,Cloud & DevOps,L1,Cloud Engineer,Pune,Female,51,Bachelor's,Full-Time,Hybrid,2,7,23,299579,3594948,343130,2,3,3,34,74,6,2,5,9.2,High,0.0291,No
+MNC10420,HCLTech,Cybersecurity,L4,Cybersecurity Analyst,Chennai,Female,34,Bachelor's,Full-Time,Hybrid,7,2,7,285095,3421140,346140,5,1,1,52,80,10,3,3,15.0,High,0.0534,No
+MNC10421,Infosys,Data & AI,L2,Cybersecurity Analyst,Mumbai,Female,54,Master's,Full-Time,Hybrid,7,5,11,291176,3494112,580305,3,5,4,57,54,1,1,1,27.4,Medium,0.2082,No
+MNC10422,Infosys,IT Support,L2,Software Developer,Gurugram,Male,38,Bachelor's,Full-Time,Onsite,6,3,20,279717,3356604,497163,4,1,5,30,50,6,3,3,12.1,High,0.0437,No
+MNC10423,HCLTech,Cybersecurity,L2,IT Support Engineer,Hyderabad,Female,54,Master's,Full-Time,Hybrid,9,7,9,164479,1973748,57676,3,2,2,58,59,4,3,2,16.8,High,0.2147,No
+MNC10424,Wipro,Cybersecurity,L1,IT Support Engineer,Chennai,Male,31,Bachelor's,Full-Time,Onsite,3,5,22,62940,755280,535848,2,1,3,43,7,3,3,4,32.5,High,0.5343,No
+MNC10425,Tech Mahindra,Testing/QA,L1,DevOps Engineer,Hyderabad,Other,32,Master's,Full-Time,Remote,14,7,19,35666,427992,447617,2,4,3,0,85,2,0,5,50.1,Low,0.0136,No
+MNC10426,Cognizant,Data & AI,L3,Business Analyst,Gurugram,Male,35,Bachelor's,Full-Time,Onsite,3,0,16,329266,3951192,50468,1,1,4,2,67,7,0,1,24.7,Low,0.0552,No
+MNC10427,TCS,Cybersecurity,L1,Technical Lead,Mumbai,Male,51,Master's,Full-Time,Hybrid,2,5,10,186164,2233968,451989,1,3,1,2,74,9,3,4,43.3,High,0.025,No
+MNC10428,Accenture,Cybersecurity,L3,Cloud Engineer,Pune,Female,49,Master's,Full-Time,Hybrid,4,0,1,236717,2840604,47599,2,1,5,36,71,3,2,3,52.7,High,0.2611,No
+MNC10429,TCS,Data & AI,L2,QA Engineer,Mumbai,Male,46,Master's,Full-Time,Onsite,2,0,3,56505,678060,148469,5,2,4,18,8,6,1,2,13.8,Medium,0.0538,No
+MNC10430,Accenture,Data & AI,L2,Technical Lead,Pune,Other,38,Bachelor's,Full-Time,Onsite,12,7,0,66713,800556,240270,5,1,2,28,89,9,2,3,48.6,High,0.0455,No
+MNC10431,TCS,Cybersecurity,L2,Technical Lead,Gurugram,Female,52,Master's,Contract,Hybrid,7,6,14,335313,4023756,45406,4,4,2,24,1,2,0,4,45.7,Low,0.1772,No
+MNC10432,HCLTech,Data & AI,L2,Project Manager,Mumbai,Female,42,Bachelor's,Contract,Hybrid,6,2,12,234354,2812248,67560,1,5,2,32,79,7,1,1,22.1,Medium,0.0583,No
+MNC10433,Cognizant,Cybersecurity,L3,Software Developer,Chennai,Male,37,Master's,Full-Time,Hybrid,15,5,7,107511,1290132,516394,4,1,4,35,94,5,3,5,59.4,High,0.0734,Yes
+MNC10434,Tech Mahindra,Cybersecurity,L2,Cybersecurity Analyst,Noida,Female,43,Bachelor's,Full-Time,Hybrid,12,8,24,332666,3991992,520112,1,1,5,60,69,5,2,4,16.5,High,0.3346,No
+MNC10435,Accenture,Testing/QA,L3,DevOps Engineer,Chennai,Male,44,Master's,Full-Time,Hybrid,2,6,3,242204,2906448,144575,2,3,3,28,84,7,2,1,16.0,High,0.0373,No
+MNC10436,Tech Mahindra,Software Engineering,L2,IT Support Engineer,Hyderabad,Male,28,Bachelor's,Full-Time,Hybrid,15,2,9,280694,3368328,54943,5,4,1,57,89,9,3,4,46.6,High,0.0574,Yes
+MNC10437,Tech Mahindra,Cybersecurity,L3,Software Developer,Chennai,Female,26,Master's,Full-Time,Hybrid,8,5,18,279836,3358032,75839,5,5,3,25,58,4,2,2,26.6,High,0.0144,No
+MNC10438,Tech Mahindra,Cloud & DevOps,L4,Project Manager,Gurugram,Male,25,Master's,Full-Time,Hybrid,11,3,17,264561,3174732,549633,2,2,5,3,18,9,0,3,20.5,Low,0.0619,No
+MNC10439,Capgemini,IT Support,L3,QA Engineer,Bengaluru,Male,49,Master's,Full-Time,Hybrid,13,2,4,33880,406560,249495,4,1,3,48,27,10,3,5,11.5,High,0.1298,No
+MNC10440,Wipro,Product Management,L2,DevOps Engineer,Hyderabad,Female,48,Bachelor's,Full-Time,Hybrid,12,8,18,73539,882468,50390,4,5,4,13,71,9,2,1,46.2,High,0.0181,No
+MNC10441,TCS,Software Engineering,L1,Project Manager,Mumbai,Male,31,Bachelor's,Full-Time,Hybrid,4,1,22,270056,3240672,321701,3,2,2,49,13,4,3,5,47.4,High,0.4823,No
+MNC10442,Tech Mahindra,Software Engineering,L2,Cybersecurity Analyst,Hyderabad,Male,21,PhD,Full-Time,Hybrid,8,0,21,249057,2988684,1906,1,4,5,26,23,3,1,5,34.4,Medium,0.1393,Yes
+MNC10443,TCS,Software Engineering,L3,Cybersecurity Analyst,Noida,Female,39,Bachelor's,Full-Time,Hybrid,6,1,15,44799,537588,532249,4,4,5,32,43,2,3,5,57.5,High,0.0778,No
+MNC10444,Tech Mahindra,Testing/QA,L1,Cybersecurity Analyst,Pune,Male,29,Bachelor's,Full-Time,Onsite,14,6,0,134843,1618116,157212,2,5,3,21,100,9,2,1,19.8,High,0.0123,No
+MNC10445,Accenture,Cybersecurity,L2,Software Developer,Mumbai,Female,47,Master's,Full-Time,Onsite,6,0,11,78784,945408,189773,4,2,4,47,55,2,0,1,14.0,Low,0.1431,No
+MNC10446,Wipro,Testing/QA,L3,Software Developer,Kochi,Other,54,Master's,Full-Time,Hybrid,5,5,23,143034,1716408,339711,5,4,3,2,89,6,3,5,41.0,High,0.0022,No
+MNC10447,Wipro,Cybersecurity,L2,IT Support Engineer,Hyderabad,Female,24,Bachelor's,Full-Time,Hybrid,1,6,1,230598,2767176,342808,1,5,3,22,94,5,3,3,45.7,High,0.0287,No
+MNC10448,HCLTech,Testing/QA,L3,IT Support Engineer,Mumbai,Female,38,Master's,Contract,Hybrid,8,8,20,84362,1012344,81199,3,4,5,20,50,5,2,4,14.3,High,0.0185,No
+MNC10449,Capgemini,Testing/QA,L1,QA Engineer,Mumbai,Male,35,Master's,Full-Time,Onsite,5,7,24,83997,1007964,99764,1,4,3,40,31,4,0,5,5.5,Low,0.1254,No
+MNC10450,HCLTech,IT Support,L1,DevOps Engineer,Mumbai,Male,33,Bachelor's,Full-Time,Hybrid,7,5,7,211413,2536956,122357,5,4,2,22,49,6,0,2,48.8,Low,0.0614,No
+MNC10451,HCLTech,Cloud & DevOps,L3,Data Scientist,Pune,Female,39,Master's,Full-Time,Remote,0,2,17,306693,3680316,342873,5,3,3,3,40,5,1,5,58.6,Medium,0.0227,No
+MNC10452,HCLTech,Testing/QA,L2,Data Scientist,Kochi,Female,26,Bachelor's,Full-Time,Onsite,4,7,24,349064,4188768,421777,5,2,2,20,65,4,1,1,39.0,Medium,0.0457,No
+MNC10453,HCLTech,IT Support,L3,Project Manager,Gurugram,Male,32,Bachelor's,Full-Time,Remote,11,6,15,246398,2956776,312712,5,5,5,36,24,9,2,4,17.4,High,0.0307,No
+MNC10454,HCLTech,Data & AI,L2,Cybersecurity Analyst,Chennai,Male,37,Bachelor's,Contract,Remote,0,2,4,290464,3485568,160576,2,5,4,42,60,6,0,2,59.8,Low,0.3001,No
+MNC10455,Cognizant,Cloud & DevOps,L2,DevOps Engineer,Mumbai,Male,43,Bachelor's,Full-Time,Hybrid,9,8,21,187255,2247060,564585,3,2,2,30,65,10,0,4,53.7,Low,0.1551,Yes
+MNC10456,Wipro,Testing/QA,L4,Technical Lead,Bengaluru,Male,46,Master's,Full-Time,Hybrid,10,1,12,54624,655488,461823,5,2,4,20,41,10,1,4,31.3,Medium,0.0346,No
+MNC10457,HCLTech,Product Management,L4,Software Developer,Gurugram,Female,49,Bachelor's,Full-Time,Remote,15,2,18,223587,2683044,16939,5,2,4,25,64,10,1,2,49.7,Medium,0.0675,Yes
+MNC10458,Tech Mahindra,Software Engineering,L3,Business Analyst,Noida,Male,53,Bachelor's,Full-Time,Hybrid,13,1,2,264784,3177408,443931,4,2,2,40,35,3,2,5,49.1,High,0.1968,No
+MNC10459,Wipro,Data & AI,L2,Cloud Engineer,Pune,Female,47,Bachelor's,Full-Time,Hybrid,7,0,7,76705,920460,306604,3,1,5,57,75,10,0,5,56.2,Low,0.4175,Yes
+MNC10460,Wipro,Data & AI,L3,QA Engineer,Hyderabad,Female,45,Master's,Full-Time,Hybrid,7,3,11,119326,1431912,199294,1,5,1,34,8,6,3,5,50.6,High,0.2731,Yes
+MNC10461,Infosys,IT Support,L2,Cybersecurity Analyst,Pune,Male,30,Master's,Full-Time,Hybrid,0,4,1,98369,1180428,62119,3,1,4,37,35,1,1,3,39.0,Medium,0.3111,No
+MNC10462,Cognizant,Data & AI,L1,Cybersecurity Analyst,Hyderabad,Female,43,Bachelor's,Full-Time,Hybrid,8,5,10,231893,2782716,144258,3,4,4,23,91,5,2,5,36.9,High,0.0145,No
+MNC10463,HCLTech,Cloud & DevOps,L4,Cybersecurity Analyst,Pune,Male,41,Bachelor's,Full-Time,Hybrid,1,4,11,301733,3620796,409675,3,4,5,10,37,10,0,2,28.6,Low,0.0358,Yes
+MNC10464,TCS,Testing/QA,L1,Software Developer,Hyderabad,Female,41,Master's,Full-Time,Hybrid,11,0,17,143012,1716144,218827,5,5,5,40,32,6,0,3,38.0,Low,0.0953,Yes
+MNC10465,Accenture,Testing/QA,L5,Software Developer,Mumbai,Female,33,Bachelor's,Full-Time,Onsite,8,2,12,205858,2470296,267201,5,4,3,28,41,8,1,5,47.9,Medium,0.0436,No
+MNC10466,Capgemini,Product Management,L2,Cloud Engineer,Chennai,Female,53,Bachelor's,Full-Time,Remote,0,0,4,255758,3069096,149805,2,2,5,46,60,9,2,3,58.2,High,0.4199,No
+MNC10467,Tech Mahindra,Software Engineering,L1,Technical Lead,Hyderabad,Female,44,Bachelor's,Full-Time,Hybrid,11,4,21,153711,1844532,150685,1,1,4,54,45,3,3,2,28.6,High,0.571,No
+MNC10468,TCS,IT Support,L3,DevOps Engineer,Kochi,Male,31,Master's,Full-Time,Onsite,9,4,11,106425,1277100,377224,4,2,2,59,85,2,1,5,34.8,Medium,0.12,Yes
+MNC10469,Cognizant,Software Engineering,L4,Cybersecurity Analyst,Hyderabad,Male,37,Bachelor's,Full-Time,Hybrid,13,5,1,45994,551928,479498,3,4,1,2,88,4,2,1,27.2,High,0.0064,No
+MNC10470,Accenture,Data & AI,L3,Data Scientist,Bengaluru,Female,24,Bachelor's,Full-Time,Onsite,15,7,4,141915,1702980,136260,1,1,3,0,60,8,0,2,40.4,Low,0.089,No
+MNC10471,Cognizant,Product Management,L4,IT Support Engineer,Hyderabad,Male,45,Bachelor's,Contract,Hybrid,13,0,6,134672,1616064,238178,1,2,2,51,17,8,3,4,38.2,High,0.6218,No
+MNC10472,Tech Mahindra,Software Engineering,L3,Data Scientist,Bengaluru,Male,50,PhD,Contract,Remote,8,3,23,318783,3825396,259418,2,5,1,60,69,3,2,4,2.1,High,0.0629,No
+MNC10473,Wipro,Cloud & DevOps,L3,Project Manager,Noida,Male,29,Bachelor's,Full-Time,Hybrid,3,0,11,309349,3712188,29680,4,2,1,53,81,4,3,2,32.9,High,0.1204,No
+MNC10474,Accenture,Testing/QA,L4,Data Scientist,Mumbai,Female,41,Master's,Contract,Onsite,8,8,15,348821,4185852,234433,3,4,1,18,79,3,2,4,6.2,High,0.0061,No
+MNC10475,Wipro,Data & AI,L2,Project Manager,Bengaluru,Male,40,Bachelor's,Full-Time,Onsite,6,6,22,62930,755160,364446,4,1,2,45,14,10,2,2,2.6,High,0.2118,No
+MNC10476,Tech Mahindra,Product Management,L2,Business Analyst,Chennai,Female,39,Bachelor's,Full-Time,Hybrid,10,6,7,103313,1239756,467616,2,5,3,48,47,2,2,1,47.7,High,0.3284,No
+MNC10477,TCS,Software Engineering,L2,IT Support Engineer,Gurugram,Other,39,Master's,Full-Time,Remote,5,4,8,254923,3059076,448934,5,1,3,21,71,4,2,2,16.3,High,0.0178,No
+MNC10478,Tech Mahindra,IT Support,L5,Data Scientist,Mumbai,Male,32,Bachelor's,Full-Time,Hybrid,14,6,14,143153,1717836,560733,1,5,1,13,12,6,3,5,21.1,High,0.0397,No
+MNC10479,TCS,Cloud & DevOps,L5,Business Analyst,Bengaluru,Male,37,Master's,Full-Time,Hybrid,4,1,4,310460,3725520,530084,3,1,2,48,42,5,1,5,4.8,Medium,0.1276,No
+MNC10480,Accenture,Cloud & DevOps,L1,QA Engineer,Mumbai,Male,48,Master's,Full-Time,Hybrid,10,3,12,262911,3154932,401339,5,4,1,56,59,3,3,3,11.6,High,0.0461,No
+MNC10481,Accenture,Software Engineering,L3,DevOps Engineer,Kochi,Female,55,Master's,Full-Time,Remote,8,6,4,126058,1512696,423041,2,5,5,58,56,2,2,4,46.2,High,0.2723,No
+MNC10482,HCLTech,Testing/QA,L4,Business Analyst,Mumbai,Male,38,Bachelor's,Full-Time,Hybrid,1,2,10,117876,1414512,592610,4,3,3,13,70,9,3,4,30.1,High,0.0093,No
+MNC10483,Cognizant,Software Engineering,L1,DevOps Engineer,Mumbai,Male,34,Master's,Full-Time,Hybrid,13,1,9,115366,1384392,523321,1,1,4,43,16,1,3,2,53.0,High,0.779,Yes
+MNC10484,HCLTech,Data & AI,L3,Data Scientist,Noida,Male,55,Bachelor's,Contract,Hybrid,12,1,19,43403,520836,419204,3,1,1,15,49,9,3,4,24.4,High,0.0405,Yes
+MNC10485,Cognizant,Software Engineering,L4,Technical Lead,Chennai,Female,27,Master's,Full-Time,Remote,10,0,12,278550,3342600,99244,5,2,5,32,31,1,2,5,16.9,High,0.0383,No
+MNC10486,HCLTech,Cloud & DevOps,L1,Business Analyst,Pune,Male,33,Master's,Full-Time,Onsite,13,4,8,291420,3497040,491860,5,5,3,12,21,7,3,1,21.5,High,0.0164,No
+MNC10487,Wipro,Product Management,L3,IT Support Engineer,Pune,Female,38,Master's,Full-Time,Hybrid,11,5,20,193004,2316048,387932,1,3,2,37,54,6,0,2,43.1,Low,0.3438,Yes
+MNC10488,Accenture,Software Engineering,L2,Data Scientist,Bengaluru,Female,33,Bachelor's,Full-Time,Hybrid,1,5,13,328845,3946140,357395,4,4,3,48,56,7,2,4,33.7,High,0.0855,Yes
+MNC10489,TCS,Testing/QA,L4,Cybersecurity Analyst,Mumbai,Male,51,Bachelor's,Full-Time,Onsite,10,8,17,282396,3388752,130364,2,2,2,11,12,3,3,5,54.3,High,0.1702,No
+MNC10490,Cognizant,Product Management,L5,Software Developer,Bengaluru,Female,22,Bachelor's,Full-Time,Onsite,11,3,14,87241,1046892,410259,4,3,2,54,46,3,0,3,36.5,Low,0.2587,No
+MNC10491,Tech Mahindra,IT Support,L5,Business Analyst,Noida,Male,36,Master's,Full-Time,Hybrid,14,0,9,171439,2057268,468977,4,5,1,50,86,1,3,4,30.1,High,0.0257,No
+MNC10492,Cognizant,Cybersecurity,L2,IT Support Engineer,Noida,Female,29,Bachelor's,Full-Time,Remote,8,5,23,95030,1140360,402968,4,3,1,37,61,4,1,1,47.4,Medium,0.1596,Yes
+MNC10493,TCS,Software Engineering,L4,QA Engineer,Hyderabad,Female,29,Bachelor's,Full-Time,Hybrid,11,4,6,207577,2490924,200065,1,1,3,38,53,2,3,1,56.9,High,0.5638,Yes
+MNC10494,HCLTech,Testing/QA,L4,Cybersecurity Analyst,Kochi,Female,31,Master's,Full-Time,Remote,2,5,7,194404,2332848,52127,1,1,5,32,28,10,3,4,22.0,High,0.2442,No
+MNC10495,Cognizant,Product Management,L2,QA Engineer,Noida,Male,42,Master's,Full-Time,Hybrid,7,2,2,237397,2848764,273120,2,2,3,32,21,8,1,4,15.7,Medium,0.159,No
+MNC10496,Capgemini,Testing/QA,L4,Data Scientist,Hyderabad,Male,53,Bachelor's,Full-Time,Hybrid,10,1,14,135185,1622220,99122,4,5,4,28,64,3,2,5,37.4,High,0.0163,No
+MNC10497,Wipro,IT Support,L1,Software Developer,Chennai,Male,43,Master's,Full-Time,Hybrid,15,5,15,66404,796848,332548,1,5,2,4,28,7,1,4,30.4,Medium,0.0386,No
+MNC10498,Accenture,Cloud & DevOps,L3,Business Analyst,Bengaluru,Male,54,Bachelor's,Full-Time,Hybrid,14,0,3,85182,1022184,344076,2,3,2,5,47,7,2,3,59.4,High,0.0751,No
+MNC10499,TCS,Testing/QA,L2,Business Analyst,Gurugram,Male,29,Bachelor's,Full-Time,Remote,8,6,20,325135,3901620,339851,2,2,1,30,4,9,1,5,28.3,Medium,0.2671,No
+MNC10500,Accenture,Product Management,L1,Technical Lead,Chennai,Male,44,Bachelor's,Contract,Hybrid,7,6,5,134601,1615212,482863,4,5,5,15,34,6,3,2,5.4,High,0.0116,No
